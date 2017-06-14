@@ -1,6 +1,6 @@
 ---
 title: What could you earn over your lifetime?
-layout: default
+layout: post
 categories: earning
 tags: [tools, calculators, making money, earning]
 ---

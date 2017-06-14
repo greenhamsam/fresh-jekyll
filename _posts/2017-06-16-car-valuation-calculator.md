@@ -1,6 +1,6 @@
 ---
 title: How much is your car worth
-layout: default
+layout: post
 categories: spending
 tags: [car, lifestyle, spending]
 ---

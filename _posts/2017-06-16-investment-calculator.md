@@ -1,6 +1,6 @@
 ---
 title: A simple investment calculator
-layout: default
+layout: post
 categories: investing
 tags: [calculators, investing, freedom]
 ---

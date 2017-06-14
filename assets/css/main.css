@@ -2111,6 +2111,10 @@
 		text-decoration: none;
 	}
 
+	a.archive-list {
+		border-bottom: none;
+	}
+
 		a:hover {
 			border-bottom-color: #f56a6a;
 			color: #f56a6a !important;
@@ -2162,6 +2166,11 @@
 
 	h4 {
 		font-size: 1.1em;
+	}
+
+	h4.archive-list {
+		color: #7e7e7e;
+		font-weight: normal;
 	}
 
 	h5 {

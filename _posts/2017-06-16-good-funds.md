@@ -1,6 +1,6 @@
 ---
 title: Here are some funds you could look at
-layout: default
+layout: post
 categories: investing
 tags: [tools, investing, freedom, accounts]
 ---

@@ -1,6 +1,6 @@
 ---
 title: How much could you save if you sold your car?
-layout: default
+layout: post
 categories: spending
 tags: [spending, recurring bills, calculators]
 ---

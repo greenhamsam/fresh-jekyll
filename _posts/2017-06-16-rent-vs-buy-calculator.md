@@ -1,6 +1,6 @@
 ---
 title: Rent versus buy calculator
-layout: default
+layout: post
 categories: spending
 tags: [spending, recurring bills, calculators, home]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Find your fucking credit score
-layout: default
+layout: post
 categories: debt
 tags: [tools, debt]
 ---

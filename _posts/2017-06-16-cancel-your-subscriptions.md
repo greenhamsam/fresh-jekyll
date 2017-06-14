@@ -1,6 +1,6 @@
 ---
-title: Cancel your subscription
-layout: default
+title: Cancel your subscriptions
+layout: post
 categories: spending
 tags: [spending, recurring bills]
 ---

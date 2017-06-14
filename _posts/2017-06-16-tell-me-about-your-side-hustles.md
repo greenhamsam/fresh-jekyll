@@ -1,6 +1,6 @@
 ---
 title: Let’s talk about those side-hustles
-layout: default
+layout: post
 categories: earning
 tags: [discussions, earning, making money, side-hustles, jobs]
 ---

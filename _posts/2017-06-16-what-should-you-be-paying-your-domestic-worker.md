@@ -1,6 +1,6 @@
 ---
 title: How much should you be paying your domestic worker?
-layout: default
+layout: post
 categories: spending
 tags: [spending, recurring bills, calculators]
 ---

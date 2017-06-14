@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!-- Blog posts -->
+  <section>
+  <header>
+    <h2>Wrangle your spending</h2>
+  </header>
+  <div class="posts">
+    {% for post in site.categories.spending %}
+    <article>
+      <a href="{{ post.url }}" class="image"><img src="images/pic01.jpg" alt="" /></a>
+      <h3>{{ post.title }}</h3>
+      {{ post.content | strip_html | truncatewords:75 }}
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">More</a></li>
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+</section>

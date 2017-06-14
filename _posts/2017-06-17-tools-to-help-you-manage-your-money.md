@@ -1,6 +1,6 @@
 ---
 title: Some great apps and tools to help you manage your money
-layout: default
+layout: post
 categories: etc
 tags: [tools, apps, get your shit together, analysis]
 ---

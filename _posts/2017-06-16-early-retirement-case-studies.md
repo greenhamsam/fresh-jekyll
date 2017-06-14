@@ -1,6 +1,6 @@
 ---
 title: Some ballers who retired early
-layout: default
+layout: post
 categories: freedom
 tags: [freedom, retirement]
 ---

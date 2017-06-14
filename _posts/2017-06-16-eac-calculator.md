@@ -1,6 +1,6 @@
 ---
 title: Convert all your interest rates to effective annual cost
-layout: default
+layout: post
 categories: investing
 tags: [calculators, investing, debt]
 ---

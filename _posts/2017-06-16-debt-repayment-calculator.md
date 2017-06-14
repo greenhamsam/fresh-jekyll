@@ -1,6 +1,6 @@
 ---
 title: Lets get you the fuck out of debt the calculator
-layout: default
+layout: post
 categories: debt
 tags: [tools, debt, freedom, calculators]
 ---

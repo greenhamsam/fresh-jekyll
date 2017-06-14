@@ -1,6 +1,6 @@
 ---
 title: Looking for advice?
-layout: default
+layout: post
 categories: etc
 tags: [tools, advice]
 ---

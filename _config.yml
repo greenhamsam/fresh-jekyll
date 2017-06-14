@@ -9,6 +9,7 @@ twitter_username: "greenhamsam"
 github_username:  "greenhamsam"
 repository: "greenhamsam/fresh-jekyll"
 future: true
+permalink: /:categories/:title.html
 
 defaults:
   # _posts

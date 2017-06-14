@@ -1,6 +1,6 @@
 ---
 title: Spending challenge cards for your fridge
-layout: default
+layout: post
 categories: spending
 tags: [spending, tools]
 ---

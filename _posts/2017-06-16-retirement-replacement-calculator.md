@@ -1,6 +1,6 @@
 ---
 title: Are you saving enough for retirement?
-layout: default
+layout: post
 categories: freedom
 tags: [freedom, retirement]
 ---

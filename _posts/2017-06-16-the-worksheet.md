@@ -1,6 +1,6 @@
 ---
 title: Here’s the all-in-one baller worksheet to help you manage your money
-layout: default
+layout: post
 categories: etc
 tags: [tools, analysis, get your shit together]
 ---
