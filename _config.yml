@@ -1,2 +1,31 @@
 title: Society of Fucking Grownups
 url: http://www.fuckinggrownups.com
+locale: "en-GB"
+email: howzit@fuckinggrownups.com
+name: "Sam Beckbessinger"
+description: > # this means to ignore newlines until "baseurl:"
+  A community learning to be grownups about managing our money. Come say hi, learn some stuff.
+twitter_username: "greenhamsam"
+github_username:  "greenhamsam"
+repository: "greenhamsam/fresh-jekyll"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
+author:
+  name   : "Sam Beckbessinger"
+  bio    : "Money dork. Entrepreneur."
+  email  : "howzit@fuckinggrownups.com"
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
