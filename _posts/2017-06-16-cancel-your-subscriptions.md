@@ -1,7 +1,7 @@
 ---
 title: Cancel your subscription
 layout: default
-category: spending
+categories: spending
 tags: [spending, recurring bills]
 ---
 | Subscription | Phone | Email | Notes |

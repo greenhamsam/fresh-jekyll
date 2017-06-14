@@ -1,7 +1,7 @@
 ---
 title: Some great apps and tools to help you manage your money
 layout: default
-category: et cetera
+categories: etc
 tags: [tools, apps, get your shit together, analysis]
 ---
 A bunch of links and descriptions of what all the tools do.

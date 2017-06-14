@@ -1,7 +1,7 @@
 ---
 title: Looking for advice?
 layout: default
-category: et cetera
+categories: etc
 tags: [tools, advice]
 ---
 Link to CFP institute
