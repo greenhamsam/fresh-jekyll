@@ -9,3 +9,5 @@ A bunch of links and descriptions of what all the tools do.
 Luno
 Other PFMs (gross)
 Shyft
+
+The Capitec app is pretty good for day to day budgeting, but you can't keep track of other things with it. Pretty good if you're starting out and bank with Capitec though.
