@@ -13,3 +13,5 @@ A giant table. Could be in Markdown for now. Obviously needs a fuck-ton of discl
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+You can actually just buy individual stocks, and some good global ETFs, on Easy Equities now. Only on the NYSE I think.
