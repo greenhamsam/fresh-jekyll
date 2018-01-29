@@ -3,6 +3,7 @@ title: Some great apps and tools to help you manage your money
 layout: post
 categories: etc
 tags: [tools, apps, get your shit together, analysis]
+published: false
 ---
 A bunch of links and descriptions of what all the tools do.
 22seven

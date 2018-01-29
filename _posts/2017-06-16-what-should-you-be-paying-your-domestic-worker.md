@@ -3,6 +3,7 @@ title: How much should you be paying your domestic worker?
 layout: post
 categories: spending
 tags: [spending, recurring bills, calculators]
+published: false
 ---
 An external link to [http://living-wage.co.za/][1]
 
