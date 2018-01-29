@@ -10,7 +10,7 @@ Want some ideas for what skills are desperately needed in our country, to guide 
 
 It includes unglamorous but fascinating professions like forestry technicians, geologists and protein scientists.
 
-#Job categories
+## Job categories
 There are 12 categories of jobs:
 - Agriculture, Agricultural Operations and Related Sciences
 - Architecture and the Built Environment
@@ -25,7 +25,7 @@ There are 12 categories of jobs:
 - Academics and Researchers
 - Post-Graduates
 
-#Full jobs list
+## Full jobs list
 Too lazy to go through the PDF? Here's the full list.
 - Agriculture, Agricultural Operations and Related Sciences
 - Agricultural Engineer
