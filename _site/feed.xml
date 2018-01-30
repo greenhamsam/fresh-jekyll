@@ -1,5 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-30T20:36:15+02:00</updated><id>http://localhost:4000/</id><title type="html">Society of Fucking Grownups</title><subtitle>A community learning to be grownups about managing our money. Come say hi, learn some stuff.
-</subtitle><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><entry><title type="html">How to find a financial adviser who doesn’t suck</title><link href="http://localhost:4000/etc/get-some-advice.html" rel="alternate" type="text/html" title="How to find a financial adviser who doesn't suck" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>http://localhost:4000/etc/get-some-advice</id><content type="html" xml:base="http://localhost:4000/etc/get-some-advice.html">&lt;p&gt;At some point in your journey into badass grownup moneying, you’ll need to find yourself a financial adviser. In fact, if you’ve been browsing this site long enough to come across this post, then that’s probably a sign that you’re ready to give one a call.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-30T21:24:03+02:00</updated><id>http://localhost:4000/</id><title type="html">Society of Fucking Grownups</title><subtitle>A community learning to be grownups about managing our money. Come say hi, learn some stuff.
+</subtitle><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><entry><title type="html">Radtastic investment funds and savings accounts</title><link href="http://localhost:4000/investing/good-funds.html" rel="alternate" type="text/html" title="Radtastic investment funds and savings accounts" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>http://localhost:4000/investing/good-funds</id><content type="html" xml:base="http://localhost:4000/investing/good-funds.html">&lt;p&gt;&lt;em&gt;Heyyyyyyy… remember how I’m not a professional, qualified financial adviser? Just reminding you of that fact. Do your own homework before you put your money in something and &lt;a href=&quot;/etc/get-some-advice.html&quot;&gt;talk to an actual financial adviser&lt;/a&gt; if you need to. Kthnxbai.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Guys, there are a lot of different accounts and funds out there, and I’m not listing every single one of them here. These are just some of the funds that I’ve personally scouted out as potential candidates for my own portfolio.&lt;/p&gt;
+
+&lt;p&gt;(Psst: if you do want a pretty comprehensive list of funds in South Africa, try &lt;a href=&quot;http://www.fundsdata.co.za/navs/default.htm&quot;&gt;this link.&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I like to choose things that:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Have the &lt;strong&gt;lowest possible costs&lt;/strong&gt; (look for the “total expense ratio”) - this almost always means passive index investing. You should read chapter 7 of the book for the full debate on active vs. passive funds and make up your own mind about this.&lt;/li&gt;
+  &lt;li&gt;Are with &lt;strong&gt;reputable, legit companies&lt;/strong&gt; that won’t vanish with my money.&lt;/li&gt;
+  &lt;li&gt;Are friendly for people who like to &lt;strong&gt;handle their investments themselves, online&lt;/strong&gt; because, come on, it’s 2018.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, you need to choose the right type of fund, with the right asset allocation, for your time period, which will tell you what your risk appetite should be. The basic rule for this is that the sooner you want to spend that chunk money, the lower the risk rating you’re looking for.&lt;/p&gt;
+
+&lt;p&gt;New funds come out all the time! And I’m also not a wizard, so I might have missed some really great options. If you’ve found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Last updated: 30 January 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-a-savings-account-for-your-emergency-fund-or-table-flip-fund&quot;&gt;Looking for a savings account for your emergency fund or table flip fund)?&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Provider&lt;/th&gt;
+      &lt;th&gt;Account name&lt;/th&gt;
+      &lt;th&gt;Link&lt;/th&gt;
+      &lt;th&gt;Max interest rate&lt;/th&gt;
+      &lt;th&gt;Minimum amount&lt;/th&gt;
+      &lt;th&gt;Notice period&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FNB&lt;/td&gt;
+      &lt;td&gt;Money Maximiser&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.fnb.co.za/invest/money-maximiser.html&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;7.05%&lt;/td&gt;
+      &lt;td&gt;R100 000&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FNB&lt;/td&gt;
+      &lt;td&gt;32 Day Flexi Notice&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.fnb.co.za/invest/32-day-flexi-notice.html&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.95%&lt;/td&gt;
+      &lt;td&gt;R1 000&lt;/td&gt;
+      &lt;td&gt;32 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FNB&lt;/td&gt;
+      &lt;td&gt;7 Day Notice&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.fnb.co.za/invest/7-day-notice-deposit.html&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.65%&lt;/td&gt;
+      &lt;td&gt;R20 000&lt;/td&gt;
+      &lt;td&gt;7 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FNB&lt;/td&gt;
+      &lt;td&gt;Money On Call&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.fnb.co.za/invest/money-on-call.html&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;5.15%&lt;/td&gt;
+      &lt;td&gt;R5 000&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Capitec&lt;/td&gt;
+      &lt;td&gt;Flexible Savings Account&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.capitecbank.co.za/global-one/save/rates-and-fees&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;5.65%&lt;/td&gt;
+      &lt;td&gt;R0&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Absa&lt;/td&gt;
+      &lt;td&gt;Notice Select 32 Days&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.absa.co.za/personal/save-invest/products/notice-select/&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.80%&lt;/td&gt;
+      &lt;td&gt;R1000&lt;/td&gt;
+      &lt;td&gt;32 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Absa&lt;/td&gt;
+      &lt;td&gt;Notice Select 7 Days&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.absa.co.za/personal/save-invest/products/notice-select/&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.65%&lt;/td&gt;
+      &lt;td&gt;R1000&lt;/td&gt;
+      &lt;td&gt;7 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Absa&lt;/td&gt;
+      &lt;td&gt;Depositor Plus&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.absa.co.za/personal/save-invest/products/depositor-plus/&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.45%&lt;/td&gt;
+      &lt;td&gt;R0&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Absa&lt;/td&gt;
+      &lt;td&gt;TruSave&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.absa.co.za/personal/save-invest/products/absa-trusave/&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;3.70%&lt;/td&gt;
+      &lt;td&gt;R50&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Standard Bank&lt;/td&gt;
+      &lt;td&gt;MoneyMarket Call Account&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.standardbank.co.za/standardbank/Personal/Fees,-rates-%26-prices/Interest-rates/MoneyMarket-Call-Account&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;6.25%&lt;/td&gt;
+      &lt;td&gt;R20 000&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Standard Bank&lt;/td&gt;
+      &lt;td&gt;PureSave&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.standardbank.co.za/standardbank/Personal/Fees,-rates-%26-prices/Interest-rates/PureSave&quot;&gt;Fund link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;2.75%&lt;/td&gt;
+      &lt;td&gt;R0&lt;/td&gt;
+      &lt;td&gt;Instant&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Don’t get too excited about those interest rates from Absa and Standard Bank - they have different interest tiers depending on how much money you have saved, and those are the maximums, often requiring you to have a few million in the account.&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-a-money-market-fund-because-your-short-term-savings-are-huuuuge&quot;&gt;Looking for a money market fund because your short term savings are huuuuge?&lt;/h2&gt;
+&lt;p&gt;| Provider | Fund name | Link | TER |
+|—————-|——-|——-|——-|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-a-conservative-investment-for-a-special-savings-goal&quot;&gt;Looking for a conservative investment for a special savings goal?&lt;/h2&gt;
+&lt;p&gt;| Provider | Fund name | Link | TER |
+|—————-|——-|——-|——-|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-a-nice-global-index-etf-for-your-freedom-fund&quot;&gt;Looking for a nice global index ETF for your freedom fund?&lt;/h2&gt;
+&lt;p&gt;| Provider | Fund name | Link | TER |
+|—————-|——-|——-|——-|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-for-a-retirement-annuity-so-that-youre-not-going-to-be-old-and-poor&quot;&gt;Looking for a retirement annuity so that you’re not going to be old and poor?&lt;/h2&gt;
+&lt;p&gt;| Provider | Fund name | Link | TER |
+|—————-|——-|——-|——-|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |&lt;/p&gt;
+
+&lt;p&gt;You can actually just buy individual stocks, and some good global ETFs, on Easy Equities now. Only on the NYSE I think.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="tools" /><category term="investing" /><category term="freedom" /><category term="accounts" /><summary type="html">Heyyyyyyy… remember how I’m not a professional, qualified financial adviser? Just reminding you of that fact. Do your own homework before you put your money in something and talk to an actual financial adviser if you need to. Kthnxbai.</summary></entry><entry><title type="html">How to find a financial adviser who doesn’t suck</title><link href="http://localhost:4000/etc/get-some-advice.html" rel="alternate" type="text/html" title="How to find a financial adviser who doesn't suck" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>http://localhost:4000/etc/get-some-advice</id><content type="html" xml:base="http://localhost:4000/etc/get-some-advice.html">&lt;p&gt;At some point in your journey into badass grownup moneying, you’ll need to find yourself a financial adviser. In fact, if you’ve been browsing this site long enough to come across this post, then that’s probably a sign that you’re ready to give one a call.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Most people think you need to have a lot of money to see an adviser.&lt;/strong&gt; This isn’t true at all. Sure, some dudes only work with wealthy okes who own wine farms, but many are perfectly interested in helping young people who are just starting out (it’s in their interests to establish a long-term relationship with you).&lt;/p&gt;
 
