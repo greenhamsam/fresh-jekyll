@@ -10,6 +10,8 @@ Want some ideas for what skills are desperately needed in our country, to guide 
 
 It includes unglamorous but fascinating professions like forestry technicians, geologists and protein scientists.
 
+There's an [alternative list here](http://7sundays.co.za/KeepClimbing/2018/01/07/fantastic-list-of-370-south-african-jobs-in-high-demand/), suggested by the Department of Higher Education and Training.
+
 ## Job categories
 There are 12 categories of jobs:
 - Agriculture, Agricultural Operations and Related Sciences
