@@ -29,8 +29,8 @@ There are some apps that need you to do this manually (hell, you could even do t
 | YNAB | [www.youneedabudget.com](https://www.youneedabudget.com/) | iOS, Android, Web | $6.99 a month | Supports most accounts around the world. |
 | MyMoney | [www.pastelmymoney.co.za](https://www.pastelmymoney.co.za/) | Desktop, Android | R15 a month | There's a free version that doesn't update your accounts automatically. |
 | My Financial Life | [myfinanciallife.nedsecure.co.za](https://myfinanciallife.nedsecure.co.za/) | Web | Free | From Nedbank, but anyone can use it. |
-| BudgetBuddy | [Android Play Store] (https://play.google.com/store/apps/details?id=com.deesoft.mobile.budgetnow&hl=en) | Android, Microsoft] | Free | Works using the SMSes from your bank, so can only track spending. |
-| JamJar | [Android Play Store](https://play.google.com/store/apps/details?id=za.co.visionsoft.jamjar&hl=en) | Free | Works using the SMSes from your bank, so can only track spending. |
+| BudgetBuddy | [Android Play Store] (https://play.google.com/store/apps/details?id=com.deesoft.mobile.budgetnow&hl=en) | Android, Microsoft | Free | Works using the SMSes from your bank, so can only track spending. |
+| JamJar | [Android Play Store](https://play.google.com/store/apps/details?id=za.co.visionsoft.jamjar&hl=en) | Free | Android | Works using the SMSes from your bank, so can only track spending. |
 
 I'm biased because I used to work at 22seven, but I legit think it's the most awesome product for South Africans. But take a look at your alternatives and find something that works for you!
 
