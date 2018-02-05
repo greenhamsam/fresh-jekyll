@@ -41,6 +41,7 @@ _Last updated: 30 January 2018_
 Don't get too excited about those interest rates from Absa and Standard Bank - they have different interest tiers depending on how much money you have saved, and those are the maximums, often requiring you to have a few million in the account.
 
 ## Looking for a money market fund because your savings have gotten huge?
+
 | Provider | Fund name | Link | TER | Minimum amount (monthly) | Annualised return (10 yrs) |
 |----------------|---------------------|-----------------|----------------|-----------|-------------|
 | Allan Gray | Money Market Fund | [Fund link](https://www.allangray.co.za/fund-pages/money-market-fund/) | 0.29% | R500 | 7.3% |
@@ -50,6 +51,7 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 | Satrix | Money Market Fund | [Fund link](https://www.satrix.co.za/media/20447?inline=true) | 0.29% | R500 | N/A |
 
 ## Looking for a conservative investment for a special savings goal?
+
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
 | Sygnia | CPI + 4% Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-cpi-4-fund.pdf?sfvrsn=50) | 1.63% |
@@ -62,6 +64,7 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 | Nedgroup Investments | Core Guarded Fund | (Fund link)[http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund] | 0.51% |
 
 ## Looking for a nice global index ETF for your freedom fund?
+
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
 |  |  |  |  |
@@ -71,6 +74,7 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 |  |  |  |  |
 
 ## Looking for a retirement annuity so that you're not going to be old and poor?
+
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
 |  |  |  |  |
