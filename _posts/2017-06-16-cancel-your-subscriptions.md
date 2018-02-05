@@ -4,6 +4,8 @@ layout: post
 categories: spending
 tags: [spending, recurring bills]
 ---
+<img src="/images/smiley-face.jpg" alt="smiling lemon" style="max-width:30%">
+
 I love you and I want you to be happy, so here are a list of subscriptions that are probably wasting your money. Cancel them and rather spend your cash on adventures and donations to charity and other shit that might actually make your life better.
 
 | Subscription | Phone | Email | Notes |
