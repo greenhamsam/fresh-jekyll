@@ -42,6 +42,8 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 
 Technically that FNB Money Maximiser is a money market fund, but you interact with it like a savings account.
 
+Here's a pretty cool [online calculator](https://mytreasury.co.za/) that will help you find the savings account where you can get the best interest rate.
+
 ## Looking for a money market fund because your short-term savings have gotten huge?
 
 | Provider | Fund name | Link | TER | Minimum amount (monthly) | Annualised return (10 yrs) |
