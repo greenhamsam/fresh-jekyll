@@ -52,6 +52,8 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 
 ## Looking for a conservative investment for a special savings goal?
 
+[EasyEquities](https://www.easyequities.co.za/) is a very easy place to buy most of these funds.
+
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
 | Sygnia | CPI + 4% Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-cpi-4-fund.pdf?sfvrsn=50) | 1.63% |
@@ -65,22 +67,31 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 
 ## Looking for a nice global index ETF for your freedom fund?
 
-| Provider | Fund name | Link | TER |
+[EasyEquities](https://www.easyequities.co.za/) is a very easy place to buy most of these funds.
+
+| Provider | Fund name | Link | TER | Currency |
 |----------------|-------|-------|-------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Coreshares | S&P 500 | [Fund link](https://coreshares.co.za/products/coreshares-sp-500/#) | 0.24% | SA Rands |
+| Satrix | MSCI World | [Fund link](https://www.satrix.co.za/products/product-details?id=33&TabSelection=ETF) | 0.26% | SA Rands |
+| Satrix | S&P 500 ETF | [Fund link](https://www.satrix.co.za/products/product-details?id=46&TabSelection=ETF) | 0.21% | SA Rands |
+| 22seven/Old Mutual | FTSE RAFI | [Fund link](https://22seven.com/invest-your-money) | 1.21% | SA Rands |
+| Sygnia | Skeleton Worldwide Flexible Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-worldwide-flexible-fund-class-a.pdf?sfvrsn=52) | 0.59% | SA Rands |
+| Sygnia | Skeleton International Equity FOFS | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-international-equity-fund-of-funds-class-a.pdf?sfvrsn=50) | 0.68% | SA Rands |
+| Sygnia | 4th Industrial Revolution (Tax-free only) | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-(sirgb)-sygnia-4th-industrial-revolution-global-equity-fund-class-b---ffs_2016_top10.pdf?sfvrsn=36) | 0.92% | SA Rands |
+| EasyEquities | iShares MSCI World ETF | [Fund link](https://www.ishares.com/us/literature/fact-sheet/urth-ishares-msci-world-etf-fund-fact-sheet-en-us.pdf) | 0.24% | US Dollars |
+| EasyEquities | iShares MSCI Total International Stock | [Fund link](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | 0.11% | US Dollars |
+| EasyEquities | iShares S&P 500 ETF | [Fund link](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf) | 0.04% | US Dollars |
+| EasyEquities | Vanguard Russell 3000 | [Fund link](https://personal.vanguard.com/us/funds/snapshot?FundId=3354&FundIntExt=INT&funds_disable_redirect=true) | 0.15% | US Dollars |
+| EasyEquities | Vanguard S&P 500 | [Fund link](https://personal.vanguard.com/us/funds/snapshot?FundIntExt=INT&FundId=0968&funds_disable_redirect=true) | 0.04% | US Dollars |
+| EasyEquities | Vanguard Total World Stock | [Fund link](https://personal.vanguard.com/pub/Pdf/sp3141.pdf?2210111870) | 0.11% | US Dollars |
+
+The US Dollar accounts are ones that you can open locally, online, as a South African, but you need to use US Dollars to invest in them. This means making an international transfer from your online banking profile or buying US Dollars in an app like [Shyft](https://getshyft.co.za/). This does mean that you'll need to take currency conversion costs into account, when comparing your options.
 
 ## Looking for a retirement annuity so that you're not going to be old and poor?
 
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-You can actually just buy individual stocks, and some good global ETFs, on Easy Equities now.
+| 10X | Retirement Annuity (High Equity) | [Fund link](https://www.10x.co.za/retirement-annuity) | 1.00% |
+| Sygnia | Skeleton Balanced 70 | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-balanced-70-fund.pdf?sfvrsn=56) | 0.48% |
+| Satrix | Balanced Index Fund | [Fund link](https://satrix.co.za/media/20442?inline=true) | 0.76% |
+| Nedgroup | Core Diversified | [Fund link](http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-diversified-fund) | 0.46% |
