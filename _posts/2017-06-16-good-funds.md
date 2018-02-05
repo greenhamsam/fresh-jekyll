@@ -58,10 +58,10 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 | Sygnia | CPI + 2% Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-cpi-2-fund.pdf?sfvrsn=50) | 1.59% |
 | Sygnia | Skeleton Balanced 40 | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-balanced-40-fund.pdf?sfvrsn=52) | 0.56% |
 | Satrix | Low Equity Balanced Index | [Fund link](https://www.satrix.co.za/products/product-details?id=30&TabSelection=Unit%20Trust) | 0.78% |
-| Old Mutual | Core Conservative Fund | (Fund link)[https://www.oldmutual.co.za/docs/default-source/unit-trust/ut08factsheets/OldMutualCoreConservativeFund.pdf] | 0.75% |
-| Prescient | Absolute Defensive Fund | (Fund link)[https://www.prescient.co.za/funds/multi-asset-funds/prescient-absolute-defensive-fund/] | N/A |
-| FNB | Stable Fund of Funds | (Fund link)[https://www.fnb.co.za/downloads/unittrust/Stable_fund.pdf] | 0.85% |
-| Nedgroup Investments | Core Guarded Fund | (Fund link)[http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund] | 0.51% |
+| Old Mutual | Core Conservative Fund | [Fund link](https://www.oldmutual.co.za/docs/default-source/unit-trust/ut08factsheets/OldMutualCoreConservativeFund.pdf) | 0.75% |
+| Prescient | Absolute Defensive Fund | [Fund link](https://www.prescient.co.za/funds/multi-asset-funds/prescient-absolute-defensive-fund/) | N/A |
+| FNB | Stable Fund of Funds | [Fund link](https://www.fnb.co.za/downloads/unittrust/Stable_fund.pdf) | 0.85% |
+| Nedgroup Investments | Core Guarded Fund | [Fund link](http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund) | 0.51% |
 
 ## Looking for a nice global index ETF for your freedom fund?
 
