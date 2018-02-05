@@ -11,6 +11,8 @@ Looking for the all-in-one mega-super awesome dashboard for managing your money?
 
 You'll have to start off by making a copy for yourself, so that you can edit the data.
 
+---------------
+
 Prefer to do things old-school with Microsoft Excel?
 
 <a href="/downloads/Manage your money like a fucking grownup, the money dashboard.xlsx" download>Download the Excel version</a>
