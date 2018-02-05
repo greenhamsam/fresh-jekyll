@@ -11,8 +11,8 @@ Guys, there are a lot of different accounts and funds out there, and I'm not lis
 
 (Psst: if you do want a pretty comprehensive list of funds in South Africa, try [this link.](http://www.fundsdata.co.za/navs/default.htm))
 
-I like to choose things that:
-- Have the **lowest possible costs** (look for the "total expense ratio") - this almost always means passive index investing. You should read chapter 7 of the book for the full debate on active vs. passive funds and make up your own mind about this.
+**I like to choose things that:**
+- Have the **lowest possible costs** (look for the "total expense ratio" or "total investment cost") - this almost always means passive index investing. You should read chapter 7 of the book for the full debate on active vs. passive funds and make up your own mind about this.
 - Are with **reputable, legit companies** that won't vanish with my money.
 - Are friendly for people who like to **handle their investments themselves, online** because, come on, it's 2018.
 
@@ -22,7 +22,7 @@ New funds come out all the time! And I'm also not a wizard, so I might have miss
 
 _Last updated: 30 January 2018_
 
-## Looking for a savings account for your emergency fund or table flip fund)?
+## Looking for a savings account for your emergency fund or table flip fund?
 
 | Provider | Account name | Link | Max interest rate | Minimum amount | Notice period |
 |----------------|---------------------|-----------------|----------------|-----------|-------------|
@@ -40,7 +40,9 @@ _Last updated: 30 January 2018_
 
 Don't get too excited about those interest rates from Absa and Standard Bank - they have different interest tiers depending on how much money you have saved, and those are the maximums, often requiring you to have a few million in the account.
 
-## Looking for a money market fund because your savings have gotten huge?
+Technically that FNB Money Maximiser is a money market fund, but you interact with it like a savings account.
+
+## Looking for a money market fund because your short-term savings have gotten huge?
 
 | Provider | Fund name | Link | TER | Minimum amount (monthly) | Annualised return (10 yrs) |
 |----------------|---------------------|-----------------|----------------|-----------|-------------|
@@ -65,7 +67,7 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 | FNB | Stable Fund of Funds | [Fund link](https://www.fnb.co.za/downloads/unittrust/Stable_fund.pdf) | 0.85% |
 | Nedgroup Investments | Core Guarded Fund | [Fund link](http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund) | 0.51% |
 
-## Looking for a nice global index ETF for your freedom fund?
+## Looking for a global index ETF for your freedom fund?
 
 [EasyEquities](https://www.easyequities.co.za/) is a very easy place to buy most of these funds.
 
@@ -88,6 +90,8 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 The US Dollar accounts are ones that you can open locally, online, as a South African, but you need to use US Dollars to invest in them. This means making an international transfer from your online banking profile or buying US Dollars in an app like [Shyft](https://getshyft.co.za/). This does mean that you'll need to take currency conversion costs into account, when comparing your options.
 
 ## Looking for a retirement annuity so that you're not going to be old and poor?
+
+All of these funds are Regulation 28 compliant, which means that you get the sweet, sweet tax breaks.
 
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
