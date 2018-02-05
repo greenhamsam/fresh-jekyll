@@ -16,9 +16,9 @@ I like to choose things that:
 - Are with **reputable, legit companies** that won't vanish with my money.
 - Are friendly for people who like to **handle their investments themselves, online** because, come on, it's 2018.
 
-Of course, you need to choose the right type of fund, with the right asset allocation, for your time period, which will tell you what your risk appetite should be. The basic rule for this is that the sooner you want to spend that chunk money, the lower the risk rating you're looking for.
+Of course, you need to choose the right type of fund, with the right asset allocation, for your time period, which will tell you what your risk appetite should be. The basic rule for this is that the sooner you want to spend that chunk of money, the lower the risk rating you're looking for.
 
-New funds come out all the time! And I'm also not a wizard, so I might have missed some really great options. If you've found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list.
+New funds come out all the time! And I'm also not a wizard, so I might have missed some really great options. If you've found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list together.
 
 _Last updated: 30 January 2018_
 
@@ -40,23 +40,26 @@ _Last updated: 30 January 2018_
 
 Don't get too excited about those interest rates from Absa and Standard Bank - they have different interest tiers depending on how much money you have saved, and those are the maximums, often requiring you to have a few million in the account.
 
-## Looking for a money market fund because your short term savings are huuuuge?
-| Provider | Fund name | Link | TER |
-|----------------|-------|-------|-------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+## Looking for a money market fund because your savings have gotten huge?
+| Provider | Fund name | Link | TER | Minimum amount (monthly) | Annualised return (10 yrs) |
+|----------------|---------------------|-----------------|----------------|-----------|-------------|
+| Allan Gray | Money Market Fund | [Fund link](https://www.allangray.co.za/fund-pages/money-market-fund/) | 0.29% | R500 | 7.3% |
+| Sygnia | Money Market Fund A | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-money-market-fund-class-a.pdf?sfvrsn=44) | 0.30% | R500 | N/A |
+| Cadiz | Money Market Fund | [Fund link](http://www.cadiz.co.za/personal-investment/unit-trusts/cadiz-money-market-fund/) | 0.29% | R1 000 | N/A |
+| Coronation | Money Market Fund | [Fund link](https://www.coronation.com/personal/funds/money-market/#js-overview) | 0.29% | R10 000 lump sum | 7.2% |
+| Satrix | Money Market Fund | [Fund link](https://www.satrix.co.za/media/20447?inline=true) | 0.29% | R500 | N/A |
 
 ## Looking for a conservative investment for a special savings goal?
 | Provider | Fund name | Link | TER |
 |----------------|-------|-------|-------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Sygnia | CPI + 4% Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-cpi-4-fund.pdf?sfvrsn=50) | 1.63% |
+| Sygnia | CPI + 2% Fund | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-cpi-2-fund.pdf?sfvrsn=50) | 1.59% |
+| Sygnia | Skeleton Balanced 40 | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-balanced-40-fund.pdf?sfvrsn=52) | 0.56% |
+| Satrix | Low Equity Balanced Index | [Fund link](https://www.satrix.co.za/products/product-details?id=30&TabSelection=Unit%20Trust) | 0.78% |
+| Old Mutual | Core Conservative Fund | (Fund link)[https://www.oldmutual.co.za/docs/default-source/unit-trust/ut08factsheets/OldMutualCoreConservativeFund.pdf] | 0.75% |
+| Prescient | Absolute Defensive Fund | (Fund link)[https://www.prescient.co.za/funds/multi-asset-funds/prescient-absolute-defensive-fund/] | N/A |
+| FNB | Stable Fund of Funds | (Fund link)[https://www.fnb.co.za/downloads/unittrust/Stable_fund.pdf] | 0.85% |
+| Nedgroup Investments | Core Guarded Fund | (Fund link)[http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund] | 0.51% |
 
 ## Looking for a nice global index ETF for your freedom fund?
 | Provider | Fund name | Link | TER |
@@ -76,4 +79,4 @@ Don't get too excited about those interest rates from Absa and Standard Bank - t
 |  |  |  |  |
 |  |  |  |  |
 
-You can actually just buy individual stocks, and some good global ETFs, on Easy Equities now. Only on the NYSE I think.
+You can actually just buy individual stocks, and some good global ETFs, on Easy Equities now.
