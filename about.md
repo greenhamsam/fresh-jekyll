@@ -19,7 +19,7 @@ In various previous lives I've been a lecturer, a games developer, a marketing s
 
 <img src="images/michelle.jpg" alt="Michelle Obama yo" style="max-width:100%">
 
-*How to Manage Money Like a F*cking Grownup* is my second book. The first one was a children's book about a dancing hippo, though, so it was pretty unrelated.
+*How to Manage Money Like a Fucking Grownup* is my second book. The first one was a children's book about a dancing hippo, though, so it was pretty unrelated.
 
 The last thing you should know about me: I have a potty mouth. Don’t blame me, blame my mother - who swears like a sailor.
 

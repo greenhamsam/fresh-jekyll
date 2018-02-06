@@ -30,7 +30,7 @@ If you're not convinced yet that the book is for you (and I don't blame you for 
 
 Once you start reading the book, you'll probably want to download the [all-in-one money dashboard]({{ site.baseurl }}{% link _posts/2017-06-16-the-worksheet.md %}) so that you can start to get your shit together.
 
-Keep yourself motivated by subscribing to our newsletter (on the homepage) and by joining our badass (and highly opinionated) Facebook community, [The League of Fucking Grownups](https://www.facebook.com/groups/leagueofgrownups/).
+Keep yourself motivated by [subscribing to our newsletter](({{ site.baseurl }}{% link newsletter.md %})) and by joining our badass (and highly opinionated) Facebook community, [The League of Fucking Grownups](https://www.facebook.com/groups/leagueofgrownups/).
 
 ## Don't be shy
 Tell me how I can help! Don't be shy to get in touch, ask questions, and tell me what you think I could do better. All of this helps me on my mission to help more young people find their freedom.
