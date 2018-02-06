@@ -25,11 +25,11 @@ author:
   bio    : "Money dork. Entrepreneur."
   email  : "howzit@fuckinggrownups.com"
 
-# Comments
- comments:
-   provider: disqus
- disqus:
-   short_name: like-a-fucking-grownup
+# # Comments
+#  comments:
+#    provider: disqus
+#  disqus:
+#    short_name: like-a-fucking-grownup
 
 # Build settings
 markdown: kramdown
