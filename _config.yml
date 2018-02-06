@@ -32,7 +32,7 @@ author:
 #    short_name: like-a-fucking-grownup
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 gems:
   - jekyll-feed
 exclude:

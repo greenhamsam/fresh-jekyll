@@ -4,7 +4,6 @@ layout: post
 categories: spending
 tags: [spending]
 published: true
-comments: true
 
 images:
 
