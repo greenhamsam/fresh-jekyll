@@ -4,10 +4,18 @@ layout: post
 categories: freedom
 tags: [earning, learning, education, making money]
 published: true
----
-<img src="/images/school.jpg" alt="Online schools" style="max-width:100%">
 
+images:
+
+  - url: /images/school.jpg
+    alt: Online schools
+    title: Online schools
+---
 Interested in investigating some innovative ways to get an education? Not sure the traditional (and expensive) university track is for you? Here are some alternatives you could consider.
+<!--more-->
+
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
 
 ## TVET/FET colleges
 The number of people enrolling at FET colleges is still tiny compared to university applicants throughout the country. That's a pity, because this country needs a lot more hands-on practical skills!

@@ -1,15 +1,16 @@
-title: Society of Fucking Grownups
-url: http://www.fuckinggrownups.com
+title: Manage Your Money Like a Fucking Grownup
+url: likeafuckinggrownup.com
 locale: "en-GB"
-email: howzit@fuckinggrownups.com
+email: howzit@likeafuckinggrownup.com
 name: "Sam Beckbessinger"
 description: > # this means to ignore newlines until "baseurl:"
   A community learning to be grownups about managing our money. Come say hi, learn some stuff.
-twitter_username: "greenhamsam"
+twitter_username: "beckbessinger"
 github_username:  "greenhamsam"
 repository: "greenhamsam/fresh-jekyll"
 future: true
 permalink: /:categories/:title.html
+excerpt_separator: <!--more-->
 
 defaults:
   # _posts
