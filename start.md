@@ -40,4 +40,4 @@ Welcome, you fiendishly good-looking reader. Take a look around.
 Love
 Sam
 
-<img src="images/balloon-cat.jpg" alt="balloon-cat">
+<img src="images/balloon-cat.jpg" alt="balloon-cat" style="max-width:100%">
