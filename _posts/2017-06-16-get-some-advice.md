@@ -4,14 +4,22 @@ layout: post
 categories: etc
 tags: [tools, advice]
 published: true
----
-<img src="/images/love.jpeg" alt="Love" style="max-width:100%">
 
+images:
+
+  - url: /images/love.jpeg
+    alt: Find me an advisor to love
+    title: Find me an advisor to love
+---
 At some point in your journey into badass grownup moneying, you’ll need to find yourself a financial adviser. In fact, if you've been browsing this site long enough to come across this post, then that's probably a sign that you're ready to give one a call.
+<!--more-->
 
 **Most people think you need to have a lot of money to see an adviser.** This isn’t true at all. Sure, some dudes only work with wealthy okes who own wine farms, but many are perfectly interested in helping young people who are just starting out (it’s in their interests to establish a long-term relationship with you).
 
 Like love, finding a good financial adviser ain’t easy. It might take you a decade before you find the money partner of your dreams. The good news is that, unlike the hellhole that is Tinder, dating financial advisers is pretty simple, because **normally people don’t charge you anything for the first meeting.** You should take full advantage of this. Meeting a bunch of different advisers is a great way to get multiple opinions about what you should be doing with your money.
+
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
 
 ## How to find the financial adviser of your dreams
 

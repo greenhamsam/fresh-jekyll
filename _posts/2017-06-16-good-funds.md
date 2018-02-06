@@ -4,12 +4,17 @@ layout: post
 categories: investing
 tags: [tools, investing, freedom, accounts]
 published: true
+
+images:
+
+  - url: /images/plan.jpeg
+    alt: Find a fund
+    title: Find a fund
 ---
-<img src="/images/plan.jpeg" alt="Fund" style="max-width:100%">
+Guys, there are a lot of different accounts and funds out there, and I'm not listing every single one of them here. These are just some of the funds that I've personally scouted out as potential candidates for my own portfolio.
+<!--more-->
 
 _Heyyyyyyy... remember how I'm not a professional, qualified financial adviser? Just reminding you of that fact. Do your own homework before you put your money in something and [talk to an actual financial adviser]({{ site.baseurl }}{% link _posts/2017-06-16-get-some-advice.md %}) if you need to. Kthnxbai._
-
-Guys, there are a lot of different accounts and funds out there, and I'm not listing every single one of them here. These are just some of the funds that I've personally scouted out as potential candidates for my own portfolio.
 
 (Psst: if you do want a pretty comprehensive list of funds in South Africa, try [this link.](http://www.fundsdata.co.za/navs/default.htm))
 
@@ -23,6 +28,9 @@ Of course, you need to choose the right type of fund, with the right asset alloc
 New funds come out all the time! And I'm also not a wizard, so I might have missed some really great options. If you've found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list together.
 
 _Last updated: 30 January 2018_
+
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
 
 ## Looking for a savings account for your emergency fund or table flip fund?
 

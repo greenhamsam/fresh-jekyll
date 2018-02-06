@@ -4,12 +4,17 @@ layout: post
 categories: etc
 tags: [tools, apps, get your shit together, analysis]
 published: true
----
-It’s really important that you can check, at any moment:
-1. The current balances of any of your debts, accounts or investments
-2. All of your transactions.
 
-And you’ve got to have real data! If you just try to rely on your memory and guesses, you’ll be off by half.
+images:
+
+  - url: /images/22seven.png
+    alt: 22seven
+    title: 22seven
+---
+You need an app to track your spending. Let's help you find the best one.
+<!--more-->
+
+It’s really important that you can check, at any moment, the current balances of any of your debts, accounts or investments, and the history of all your transactions. And you’ve got to have real data! If you just try to rely on your memory and guesses, you’ll be off by half.
 
 So, find an automated app that will gather all your money information for you and keep it all up to date without your having to do anything. There are many of these apps out there. You want to find one that:
 1. Is very secure
@@ -22,7 +27,8 @@ There are some apps that need you to do this manually (hell, you could even do t
 
 ## Spending tracker apps
 
-<img src="/images/22seven.png" alt="22seven" style="max-width:100%">
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
 
 | App name | Link | Platforms | Cost | Notes |
 |---------------|-------------|------------------------|-------|----------------------------------|

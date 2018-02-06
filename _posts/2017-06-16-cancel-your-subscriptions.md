@@ -3,6 +3,12 @@ title: Cancel your subscriptions
 layout: post
 categories: spending
 tags: [spending, recurring bills]
+
+images:
+
+  - url: /images/boybye.jpg
+    alt: Boy bye
+    title: Boy bye
 ---
 I love you and I want you to be happy, so here are a list of subscriptions that are probably wasting your money. Cancel them and rather spend your cash on adventures and donations to charity and other shit that might actually make your life better.
 
@@ -18,4 +24,5 @@ I love you and I want you to be happy, so here are a list of subscriptions that 
 
 Got any others to suggest? Let me know so I can keep the table up to date for ya.
 
-<img src="/images/boybye.jpg" alt="Boy bye" style="max-width:100%">
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
