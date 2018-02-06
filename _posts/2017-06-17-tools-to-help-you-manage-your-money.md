@@ -22,6 +22,8 @@ There are some apps that need you to do this manually (hell, you could even do t
 
 ## Spending tracker apps
 
+<img src="/images/22seven.png" alt="22seven" style="max-width:100%">
+
 | App name | Link | Platforms | Cost | Notes |
 |---------------|-------------|------------------------|-------|----------------------------------|
 | 22seven | [22seven.com](http://22seven.com/) | iOS, Android, Web | Free | You can also invest in the app. |
@@ -38,6 +40,7 @@ The Capitec app is pretty good for day to day budgeting, but you can't keep trac
 
 ## Other useful money apps
 - [Splitwise](https://www.splitwise.com/): an app to help you keep track of money that your friends and family owe you. Very useful if you're sharing expenses amongst a whole group of friends, like on a holiday.
+- [Price Check](https://www.pricecheck.co.za/): before you buy something, quickly check whether there's another store that's selling it for cheaper. The app has a barcode scanner so you can search for stuff really easily when you're in the shop.
 - [Luno](https://www.luno.com/): the easiest place to buy and sell Bitcoin and Ethereum in South Africa, if you're into that.
 - [Shyft](https://getshyft.co.za/): an app that lets you buy, store and send foreign currency more simply.
 - [M4Jam](https://www.m4jam.com/earn-money/): a microjobbing app that helps you find quick ways to earn small amounts of cash.

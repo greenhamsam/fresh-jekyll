@@ -5,6 +5,8 @@ categories: spending
 tags: [spending]
 published: true
 ---
+<img src="/images/shop.jpg" alt="Looking good" style="max-width:100%">
+
 Here are the cheapest places I've found to buy the things you really do need to buy. Tell me about your own ideas in the comments, and I'll go investigate!
 
 ## Glasses
@@ -20,3 +22,6 @@ If you need a new laptop, it can be smart to buy a better brand, but second-hand
 [The Cell Store](https://www.thecellstore.co.za/product-category/certified-pre-owned/) sells second-hand phones, and they've been tested to make sure that they're in perfect working order. You can buy even cheaper tech on [Gumtree](http://gumtree.co.za/), but with no guarantee that stuff will work. If you do decide to risk Gumtree, use the escrow service [Shepherd](https://www.paywithshepherd.com/) to protect yourself from scams.
 
 If you need a second-hand camera for that side-hustle of yours, try [Orms](http://orms.co.za/).
+
+## Random shopping
+If you can plan ahead, [AliExpress](https://www.aliexpress.com/) is a great way to order cheap things from China. Shipping is usually free to South Africa, but your stuff can take as long as 3 months to get here. You can find all sorts of weird and wonderful gizmos, tools, t-shirts, toys and more, so it's a great place to hunt for presents. The quality (and sizing) of the clothing can vary quite a lot, so read the reviews before you order. There are some great curation sites, like [Thieve](https://thieve.co/) and [Aliholic](https://aliholic.com/), to help you find the best deals on the site. Remember, just because it's cheap, don't buy crap you don't need.

@@ -1,7 +1,7 @@
 ---
 title: Let’s talk about those side-hustles
 layout: post
-categories: earning
+categories: freedom
 tags: [discussions, earning, making money, side-hustles, jobs]
 published: false
 ---

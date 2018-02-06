@@ -1,9 +1,11 @@
 ---
 title: Critical skills
 layout: post
-categories: earning
+categories: freedom
 tags: [earning, studying, university]
 ---
+<img src="/images/skills.jpg" alt="Business" style="max-width:100%">
+
 Before you think about financing a university education, do your homework. Have a clear idea of how your degree will improve your life – and be smart about what you choose to study. There are thousands of unemployed BCom graduates in South Africa, but the government is literally handing out visas to people from other countries because certain critical skills are impossible to find locally.
 
 Want some ideas for what skills are desperately needed in our country, to guide your career choices? Take a look at the full [immigration critical skills list.](http://www.dha.gov.za/images/immigration_critical_skills.pdf)

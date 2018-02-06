@@ -5,6 +5,9 @@ categories: etc
 tags: [tools, analysis, get your shit together]
 published: true
 ---
+<img src="/images/dashboard.png" alt="Money Dashboard" style="max-width:100%">
+_The all-in-one dashboard includes handy calculators, a monthly spending tracker, and more._
+
 Looking for the all-in-one mega-super awesome dashboard for managing your money? Here it is!
 
 [Find the money dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1SJOeMpC7Ol9H3mcsmxFLUQqeeoL8llmpCPxdk3DVzfE/edit?usp=sharing)

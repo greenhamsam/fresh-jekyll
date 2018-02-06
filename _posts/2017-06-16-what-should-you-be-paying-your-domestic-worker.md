@@ -5,6 +5,8 @@ categories: spending
 tags: [spending, recurring bills, calculators]
 published: true
 ---
+<img src="/images/pegs.jpeg" alt="pegs" style="max-width:100%">
+
 Are you paying your domestic worker a living wage? [Here is a useful calculator](http://living-wage.co.za/) to make sure.
 
 Guys, seriously, this is not the place to be frugal about your budget.

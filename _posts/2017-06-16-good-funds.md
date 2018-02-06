@@ -5,6 +5,8 @@ categories: investing
 tags: [tools, investing, freedom, accounts]
 published: true
 ---
+<img src="/images/plan.jpeg" alt="Fund" style="max-width:100%">
+
 _Heyyyyyyy... remember how I'm not a professional, qualified financial adviser? Just reminding you of that fact. Do your own homework before you put your money in something and [talk to an actual financial adviser]({{ site.baseurl }}{% link _posts/2017-06-16-get-some-advice.md %}) if you need to. Kthnxbai._
 
 Guys, there are a lot of different accounts and funds out there, and I'm not listing every single one of them here. These are just some of the funds that I've personally scouted out as potential candidates for my own portfolio.

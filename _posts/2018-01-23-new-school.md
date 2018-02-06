@@ -1,10 +1,12 @@
 ---
 title: The new school
 layout: post
-categories: earning
+categories: freedom
 tags: [earning, learning, education, making money]
 published: true
 ---
+<img src="/images/school.jpg" alt="Online schools" style="max-width:100%">
+
 Interested in investigating some innovative ways to get an education? Not sure the traditional (and expensive) university track is for you? Here are some alternatives you could consider.
 
 ## TVET/FET colleges
@@ -44,7 +46,3 @@ With just a laptop and an internet connection, you can access some of the world'
 - [Open Culture](http://www.openculture.com/freeonlinecourses)
 - [Academic Earth](http://academicearth.org/)
 - [Open Yale Courses](https://oyc.yale.edu/)
-
-http://7sundays.co.za/KeepClimbing/2018/01/07/fantastic-list-of-370-south-african-jobs-in-high-demand/
-
-http://7sundays.co.za/KeepClimbing/

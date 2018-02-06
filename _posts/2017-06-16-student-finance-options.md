@@ -1,7 +1,7 @@
 ---
 title: Student finance options
 layout: post
-categories: earning
+categories: freedom
 tags: [earning, studying, university]
 published: false
 ---

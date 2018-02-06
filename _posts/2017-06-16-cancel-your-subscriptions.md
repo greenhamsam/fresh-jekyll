@@ -4,12 +4,10 @@ layout: post
 categories: spending
 tags: [spending, recurring bills]
 ---
-<img src="/images/smiley-face.jpg" alt="smiling lemon" style="max-width:30%">
-
 I love you and I want you to be happy, so here are a list of subscriptions that are probably wasting your money. Cancel them and rather spend your cash on adventures and donations to charity and other shit that might actually make your life better.
 
 | Subscription | Phone | Email | Notes |
-|----------------|-------|-------|-------|
+|----------------|----------------|-------|-------|
 | DStv | (011) 289 2222 | https://selfservice.dstv.com/contact-us | Think they let you cancel online? Ha! No chance. |
 | Vodacom | 082 111 |  | Follow the prompts for "Contract queries", then "Cancellations" |
 | MTN |  | retentions@MTN.co.za | Email them and ask for a cancellations quote |
@@ -19,3 +17,5 @@ I love you and I want you to be happy, so here are a list of subscriptions that 
 | Planet Fitness | 0861 496 463 |  |  |
 
 Got any others to suggest? Let me know so I can keep the table up to date for ya.
+
+<img src="/images/boybye.jpg" alt="Boy bye" style="max-width:100%">
