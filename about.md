@@ -2,23 +2,31 @@
 title: About
 layout: default
 ---
+# Meet Sam Beckbessinger
+<img src="images/sambeckbessinger.jpg" alt="Sam Beckbessinger" style="max-width:200px">
 
-# Meet Sam
+Hi. I'm Sam. I'm a writer, UX researcher and fintech entrepreneur who’s spent most of the past ten years building tools to help people manage their money better. I also write fiction (mostly weird horror stuff featuring too many bodily fluids). I live in Cape Town, South Africa, with my stupid cat Sir Digby Chicken Caesar.
 
-Howzit. I’m Sam. I’ve spent most of the past decade trying to build better tools for interacting with money, and now I own a fintech consultancy. I didn’t do this because I find money particularly interesting. Money, as you’ll see, is actually pretty basic. What I find fascinating is humans, and the choices they make about what kind of lives to live, and the stories we tell each other about how the world works.
+I don’t have a background in finance; I have a background in talking to people and trying to make stuff easier for them. I’m obsessed with making money management simpler, because finance bros like to make it all sound a lot more complicated than it is. Not having a background in finance helps, because my approach is a lot more human-centred. I don’t have any patience for the nonsense jargon or questionable money-making tactics that infects so much of the industry.
 
-This has involved countless hours interviewing people about what they want from money, from South Africa to Kenya, Uganda to London, Zimbabwe to San Francisco. People have told me their money plans, their hopes and dreams, their fears and their feels.
+Me and two of my besties run a company called [Phantom Design](http://phantom.design/), a fintech product development company that has helped to build bitcoin wallets, cryptocurrency exchanges, smart credit cards and more.
 
-Do you know what I learnt? The stories we’re told about money are mostly bullshit.
+Before that, I was a product manager at 22Seven, where I launched a ‘nudge engine’ that uses artificial intelligence to help people manage their money, and ran hardcore qualitative research projects to understand customer mental models around spending and saving. I had far more fun doing all of this than should be legal.
 
-We never get an instruction manual about how money works. We never have to pass a test to get our Money License before we can take a new credit card for a drive. Most of what we learn about money comes from advertising or from other people who know as little as we do. No wonder we make such basic mistakes. No wonder we feel disempowered and scared. No wonder so many of us just decide to stick our heads in the damn sand and just never deal with it.
+In various previous lives I've been a lecturer, a games developer, a marketing strategist, an NGO founder, and the world's most clumsy waitress. I have a BA from the University of Cape Town and was a 2014 Mandela Washington Fellow at Yale University, where I got to high-five Barack Obama (true story). Here's a photo of my hugging Michelle, if you don't believe me. That is my "oh-my-god-this-is-the-best-moment-of-my-life-I'm-about-to-cry" face.
 
-I decided to start this community, because so many of the people I spoke to told me that they wished someone would.
+<img src="images/michelle.jpg" alt="Michelle Obama yo" style="max-width:100%">
 
-The last thing you should know about me: I have a potty mouth. Don’t blame me, blame my mother - who swears like a sailor. The second word I ever learned was the word “fuck”.
+*How to Manage Money Like a F*cking Grownup* is my second book. The first one was a children's book about a dancing hippo, though, so it was pretty unrelated.
 
-Also, I once high-fived Barack Obama (true story).
+The last thing you should know about me: I have a potty mouth. Don’t blame me, blame my mother - who swears like a sailor.
 
-_Disclaimer: I am not a certified financial advisor. I want to help you understand some money basics, and show you a path to sorting your financial life out. If your situation is complicated, get some professional help._
+**VERY IMPORTANT THING TO NOTE: I am not a certified financial advisor. I want to help you understand some money basics, and show you a path to sorting your financial life out. If your situation is complicated, [get some professional help]({{ site.baseurl }}{% link _posts/2017-06-16-get-some-advice.md %}).**
 
-Need a more profesh or press-friendly bio? Download that here.
+Need a more profesh or press-friendly bio? <a href="/downloads/Formal Biography - Sam Beckbessinger.pdf" download>Download that here.</a>
+
+----------------
+
+Listen to me rant about *Buffy the Vampire Slayer* on Twitter: [@beckbessinger](https://twitter.com/beckbessinger)
+
+Check out all the photos of my dumb cat on Instagram: [@greenham_sam](https://www.instagram.com/greenham_sam/)
