@@ -3,6 +3,6 @@ title: Contact
 layout: default
 ---
 
-# Get in touch
+# Say Hello
 
 Talk to me brah.
