@@ -27,6 +27,7 @@ Need a more profesh or press-friendly bio? <a href="/downloads/Formal Biography 
 
 ----------------
 
-Listen to me rant about *Buffy the Vampire Slayer* on Twitter: [@beckbessinger](https://twitter.com/beckbessinger)
+### Socials
 
-Check out all the photos of my dumb cat on Instagram: [@greenham_sam](https://www.instagram.com/greenham_sam/)
+- Listen to me rant about *Buffy the Vampire Slayer* on **Twitter:** [@beckbessinger](https://twitter.com/beckbessinger)
+- Check out all the photos of my dumb cat on **Instagram:** [@greenham_sam](https://www.instagram.com/greenham_sam/)
