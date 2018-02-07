@@ -240,6 +240,20 @@ layout: default
 <br/>
 <br/>
 
+## About the book
+Money dork Sam Beckbessinger tells it to you straight: how to take control of your money to take control of your life. You’ll learn:
+
+- How to trick your dumb brain into saving more, without giving up fun
+- How to make a bona fide grownup budget
+- Why you need to forget what you’ve learnt about credit
+- How to negotiate a raise
+- Why buying a house (probably) won’t make you rich
+- The one super-simple investment you need
+- How to deal with ‘black tax’
+
+With exercises, flowcharts and informative illustrations (also: kittens), this book is empowering and helpful – and f*cking funny, too.
+
+You’re going to earn millions of rands over your lifetime. Are you going to waste it on stupid crap that doesn’t make you happy, or let it buy your freedom and your most audacious dreams?
 
 ## Find the book in stores
 AVAILABLE IN BOOKSTORES ON 19 FEBRUARY 2018
