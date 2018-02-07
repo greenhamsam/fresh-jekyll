@@ -4097,7 +4097,7 @@
 } /* positions button horizontally in line with input */
 
 .button {
-	padding: .7em 2em;
+	padding: .2em 2em;
 	border: 2px;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
