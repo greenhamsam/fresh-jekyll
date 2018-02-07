@@ -4,6 +4,7 @@ layout: post
 categories: spending
 tags: [spending]
 published: true
+description: Save money by spending smarter at these great, cheap stores.
 
 images:
 

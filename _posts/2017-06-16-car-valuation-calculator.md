@@ -3,6 +3,7 @@ title: How much is your car worth
 layout: post
 categories: spending
 tags: [car, lifestyle, spending]
+description: Should you sell your car? Here's a tool to help you work out how much your car is worth if you sell it. Features two different car valuation calculators.
 
 images:
 

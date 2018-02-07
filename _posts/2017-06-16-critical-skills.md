@@ -3,6 +3,7 @@ title: Critical skills
 layout: post
 categories: freedom
 tags: [earning, studying, university]
+description: The list of critical skills that the government is handing out visas for, in South Africa. This might help you to pick what to study at university or choose a career.
 
 images:
 

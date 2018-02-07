@@ -4,6 +4,7 @@ layout: post
 categories: etc
 tags: [tools, advice]
 published: true
+description: A guide to choosing a good financial adviser for your money, in South Africa.
 
 images:
 

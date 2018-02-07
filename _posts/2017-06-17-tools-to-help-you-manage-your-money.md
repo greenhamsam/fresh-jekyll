@@ -4,6 +4,7 @@ layout: post
 categories: etc
 tags: [tools, apps, get your shit together, analysis]
 published: true
+description: Here's a list of useful apps and tools to help you manage your money in South Africa.
 
 images:
 

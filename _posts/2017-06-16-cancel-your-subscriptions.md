@@ -3,6 +3,7 @@ title: Cancel your subscriptions
 layout: post
 categories: spending
 tags: [spending, recurring bills]
+description: Cancel your subscriptions and save money. Here is a list of contact numbers to cancel all the likely candidates in South Africa.
 
 images:
 

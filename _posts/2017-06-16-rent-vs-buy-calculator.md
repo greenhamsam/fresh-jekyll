@@ -4,6 +4,7 @@ layout: post
 categories: spending
 tags: [spending, recurring bills, calculators, home]
 published: true
+description: Here's a great tool to help you work out whether you should buy a house or keep renting your home in South Africa.
 
 images:
 

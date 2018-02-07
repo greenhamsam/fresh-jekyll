@@ -4,6 +4,7 @@ layout: post
 categories: etc
 tags: [tools, analysis, get your shit together, downloads]
 published: true
+description: Here's the all-in-one dashboard or worksheet to help you manage your money better, available for Google Sheets or Microsoft Excel. Make a budget or analyse your net value.
 
 images:
 

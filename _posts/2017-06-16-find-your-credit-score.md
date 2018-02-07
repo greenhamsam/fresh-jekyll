@@ -3,6 +3,7 @@ title: Find your credit score
 layout: post
 categories: debt
 tags: [tools, debt]
+description: Here's a guide to how to check your own credit score in South Africa.
 
 images:
 

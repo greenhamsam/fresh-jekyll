@@ -4,6 +4,7 @@ layout: post
 categories: investing
 tags: [tools, investing, freedom, accounts]
 published: true
+description: Choose a great savings account or investment fund. Here are a list of options including local and global funds.
 
 images:
 

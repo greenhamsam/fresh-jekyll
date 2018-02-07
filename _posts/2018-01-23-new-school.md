@@ -4,6 +4,7 @@ layout: post
 categories: freedom
 tags: [earning, learning, education, making money]
 published: true
+description: Not sure if university is for you? Here are some alternative ways to study.
 
 images:
 
