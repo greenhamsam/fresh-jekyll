@@ -237,8 +237,10 @@ layout: default
 /*]]>*/
 </script>
 
-## Find the book in other stores
 
+
+
+## Find the book in stores
 AVAILABLE IN BOOKSTORES ON 19 FEBRUARY 2018
 - Exclusive Books
 - Bargain Books
@@ -247,6 +249,6 @@ AVAILABLE IN BOOKSTORES ON 19 FEBRUARY 2018
 - CNA
 - Amazon (if you want to buy an eBook)
 
-Download the first chapter for free.
+<!-- Download the first chapter for free. -->
 
 We're in the process of recording an audiobook.
