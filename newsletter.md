@@ -6,7 +6,7 @@ title: Newsletter
 
 Get pro-tips, videos and resources in your inbox once a week.
 
-UPDATE: We'll start sending newsletters out soon, promise. Thanks for your patience while we get everything off the ground. Y'all are the best.
+**UPDATE: We'll start sending newsletters out soon, promise. Thanks for your patience while we get everything off the ground. Y'all are the best.**
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
