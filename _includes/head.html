@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <!--SEO information-->
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="Live the life you really want to live, by learning how to make money your bitch.">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="south africa, money management, get rich, saving, investing, get out of debt, personal finance">
   <!--Stylesheets and js-->
   <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->

@@ -4,6 +4,7 @@ layout: post
 categories: spending
 tags: [spending, recurring bills, calculators]
 published: true
+description: Are you paying your domestic worker a living wage? Here's a calculator to help you work out what you should be paying.
 
 images:
 
