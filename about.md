@@ -3,7 +3,8 @@ title: About
 layout: default
 ---
 # Meet Sam Beckbessinger
-<img src="images/sambeckbessinger.jpg" alt="Sam Beckbessinger" style="max-width:200px">
+
+<img src="images/sambeckbessinger.jpg" alt="Sam Beckbessinger" style="max-width:200px;margin:20px" align="right">
 
 Hi. I'm Sam. I'm a writer, UX researcher and fintech entrepreneur who’s spent most of the past ten years building tools to help people manage their money better. I also write fiction (mostly weird horror stuff featuring too many bodily fluids). I live in Cape Town, South Africa, with my stupid cat Sir Digby Chicken Caesar.
 
@@ -17,7 +18,7 @@ Before that, I was a product manager at 22Seven, where I launched a ‘nudge eng
 
 In various previous lives I've been a lecturer, a games developer, a marketing strategist, an NGO founder, and the world's most clumsy waitress. I have a BA from the University of Cape Town and was a 2014 Mandela Washington Fellow at Yale University, where I got to high-five Barack Obama (true story). Here's a photo of my hugging Michelle, if you don't believe me. That is my "oh-my-god-this-is-the-best-moment-of-my-life-I'm-about-to-cry" face.
 
-<img src="images/michelle.jpg" alt="Michelle Obama yo" style="max-width:100%">
+<img src="images/michelle.jpg" alt="Michelle Obama yo" style="max-width:100%" class="image.left">
 
 *How to Manage Money Like a Fucking Grownup* is my second book. The first one was a children's book about a dancing hippo, though, so it was pretty unrelated.
 
