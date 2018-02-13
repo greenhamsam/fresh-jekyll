@@ -28,10 +28,16 @@ Of course, you need to choose the right type of fund, with the right asset alloc
 
 New funds come out all the time! And I'm also not a wizard, so I might have missed some really great options. If you've found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list together.
 
-_Last updated: 30 January 2018_
+_Last updated: 13 February 2018 - adding the bank account link_
 
 {% assign image = page.images[0] %}
 {% include image.html image=image %}
+
+## Looking for a cheap bank account?
+
+Moneyweb ran a [pretty good comparison](https://www.moneyweb.co.za/news/industry/the-cheapest-bank-account-is-old-mutuals/) of the different bank account options and their pricing. The result? Depending on your banking behaviour, the cheapest bank is either Capitec or (believe it or not) Old Mutual.
+
+(Thanks to John Nel for pointing me to this link!)
 
 ## Looking for a savings account for your emergency fund or table flip fund?
 
