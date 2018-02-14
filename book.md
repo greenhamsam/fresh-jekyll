@@ -241,6 +241,8 @@ layout: default
 <br/>
 
 ## About the book
+_We never get an instruction manual about how money works. We never have to pass a test to get our Money Licence before we can take a new credit card for a drive. Most of what we learn about money comes from advertising or from other people who know as little as we do. No wonder we make such basic mistakes. No wonder we feel disempowered and scared. No wonder so many of us just decide to stick our heads in the damn sand and never deal with it._
+
 Money dork Sam Beckbessinger tells it to you straight: how to take control of your money to take control of your life. You’ll learn:
 
 - How to trick your dumb brain into saving more, without giving up fun
