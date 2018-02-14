@@ -8,22 +8,19 @@ layout: default
 Want to make sure you'll be the first know about all of our events? The easiest thing to do is to like our [Facebook Page](https://www.facebook.com/likeagrownup/).
 
 ### 19 March 2018: Cape Town Book launch
-Join me at the Exclusive Books at the V&A Waterfront on 19 March 2018 for the official launch of _How to Manage Your Money Like a Fucking Grownup: the book_.
+Join me at the Exclusive Books at the [V&A Waterfront on 7 March 2018](https://www.facebook.com/events/1449515205157967/) for the official launch of _How to Manage Your Money Like a Fucking Grownup: the book_.
 
 -----------------------
 
 ## Workshops
-
-_These costs are indicative, and I reserve the right to change them at any time._
+Costs for all of these workshops vary. Just [get in touch](/contact.html) and let's chat about it.
 
 ### 90 Minute Intro to Money Management
-A fast, funny talk that aims to provoke you to think about money management. Normal cost is between **R5,000 - R10,000** depending on where in the country you want me to come to.
+A fast, funny talk that aims to provoke you to think about money management. We'll cover the basics like why compound interest is the most magical and terrifying force in the universe, how to figure out what your main financial goals are, and how to wrangle your spending.
 
 ### 1-day Hands-on Workshop
-A hands-on, practical workshop for a group of 5-20 people. I will take you through the main exercises in the book, in-person. Together, we'll help you get your shit together and make some decisions about your money. Ideal for workplaces, or just get your friends together. Cost varies, just get in touch and we can chat about it.
+A whole-day, hands-on, practical workshop for a group of 5-20 people. I will take you through the main exercises in the book, in-person. Together, we'll help you get your shit together and make some decisions about your money. Ideal for workplaces, or just get your friends together.
 
 ### School Talks: Everything You Need to Know About Money
-A 60 minute talk aimed at high school students that takes them through all the basics of money management. I promise to try very hard not to swear.
-**R5,000** for government schools. **R20,000** for private schools. If your school really can't afford it, I will do it for free (you'll just need to pay for my travel costs).
-
-_Need something different? Get in touch and let's chat about it._
+A 60 minute talk aimed at high school students that takes them through all the basics of money management, in an age-appropriate format. I promise to try very hard not to swear.
+If your school really can't afford it, I will do it for free (you'll just need to pay for my travel costs).
