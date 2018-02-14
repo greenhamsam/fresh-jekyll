@@ -3039,7 +3039,7 @@
 			background-color: #f56a6a;
 			box-shadow: none;
 			color: #ffffff !important;
-		}
+		},
 
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
@@ -3477,6 +3477,13 @@
 		flex-direction: row-reverse;
 		min-height: 100vh;
 	}
+
+/* Start Here */
+section#start-here {
+	background-color: #f56a6a;
+	height: 100px;
+	border-top: white;
+}
 
 /* Main */
 
@@ -4135,4 +4142,16 @@
 
 .PageNavigation .next {
   text-align: right;
+}
+
+/* Start Here */
+section#start-here {
+	border-top: white;
+	height: auto;
+	background-image: url("/images/pattern.jpg");
+  background-repeat: repeat;
+}
+
+div#start-div {
+	text-align: center;
 }
