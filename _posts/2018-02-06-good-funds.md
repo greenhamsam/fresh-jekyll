@@ -28,7 +28,7 @@ Of course, you need to choose the right type of fund, with the right asset alloc
 
 New funds come out all the time! And I'm also not a wizard, so I might have missed some really great options. If you've found a fund that you think is hella-mega-cool, let me know about it so that we can keep building this list together.
 
-_Last updated: 13 February 2018 - adding the bank account link_
+_Last updated: 14 February 2018 - added Coronation to the retirement annuity list_
 
 {% assign image = page.images[0] %}
 {% include image.html image=image %}
@@ -118,3 +118,7 @@ All of these funds are Regulation 28 compliant, which means that you get the swe
 | Sygnia | Skeleton Balanced 70 | [Fund link](https://www.sygnia.co.za/docs/default-source/individuals---fund-fact-sheets/unit-trusts/2017-dec-sygnia-skeleton-balanced-70-fund.pdf?sfvrsn=56) | 0.48% |
 | Satrix | Balanced Index Fund | [Fund link](https://satrix.co.za/media/20442?inline=true) | 0.76% |
 | Nedgroup | Core Diversified | [Fund link](http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-diversified-fund) | 0.46% |
+| Allan Gray | Balanced Fund | [Fund link](https://www.allangray.co.za/fund-pages/balanced-fund/) | 1.61% |
+| Coronation | Balanced Fund Plus | [Fund link](https://www.coronation.com/personal/funds/balanced-plus/) | 1.67% |
+
+Just a note on 10X: their fees get a bit lower once you've got like R1-million invested with them.
