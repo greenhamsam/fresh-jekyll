@@ -2605,13 +2605,6 @@
 				width: 100%;
 			}
 
-		@media screen and (max-width: 480px) {
-
-			#home-image.image {
-				max-width: 100%;
-				}
-		}
-
 	a.image {
 		overflow: hidden;
 	}
