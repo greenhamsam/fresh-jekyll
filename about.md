@@ -32,3 +32,6 @@ Need a more profesh or press-friendly bio? <a href="/downloads/Formal Biography 
 
 - Listen to me rant about *Buffy the Vampire Slayer* on **Twitter:** [@beckbessinger](https://twitter.com/beckbessinger)
 - Check out all the photos of my dumb cat on **Instagram:** [@greenham_sam](https://www.instagram.com/greenham_sam/)
+- Ask and answer questions with the internet's friendliest **Facebook Group**: [The League of Fucking Grownups](https://www.facebook.com/groups/leagueofgrownups/)
+- Stay up to date by liking the **Officialish Facebook Page**: [Like a Fucking Grownup](https://www.facebook.com/likeagrownup/)
+- Read longer articles about money and design on **Medium**: [@greenhamsam](https://medium.com/@greenhamsam)
