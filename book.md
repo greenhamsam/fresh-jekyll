@@ -240,6 +240,9 @@ layout: default
 <br/>
 <br/>
 
+## Looking for the eBook?
+It's available now on [Amazon](https://www.amazon.com/Manage-Your-Money-cking-Grown-ebook/dp/B079TPSBR6/ref=sr_1_1?ie=UTF8&qid=1518930832&sr=8-1&keywords=beckbessinger)
+
 ## About the book
 _We never get an instruction manual about how money works. We never have to pass a test to get our Money Licence before we can take a new credit card for a drive. Most of what we learn about money comes from advertising or from other people who know as little as we do. No wonder we make such basic mistakes. No wonder we feel disempowered and scared. No wonder so many of us just decide to stick our heads in the damn sand and never deal with it._
 
@@ -258,13 +261,11 @@ With exercises, flowcharts and informative illustrations (also: kittens), this b
 You’re going to earn millions of rands over your lifetime. Are you going to waste it on stupid crap that doesn’t make you happy, or let it buy your freedom and your most audacious dreams?
 
 ## Find the book in stores
-AVAILABLE IN BOOKSTORES ON 19 FEBRUARY 2018
 - Exclusive Books
 - Bargain Books
-- Loot
-- Takealot
+- [Loot](https://www.loot.co.za/product/jxhs-5330-g800)
+- [Takealot](https://www.takealot.com/manage-your-money-like-a-f-cking-grown-up/PLID48608525)
 - CNA
-- Amazon (if you want to buy an eBook)
 
 <!-- Download the first chapter for free. -->
 
