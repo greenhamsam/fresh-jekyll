@@ -5,7 +5,7 @@ layout: default
 
 ## Buy the book
 
-<div id='product-component-8710a875ea5'></div>
+<div id='product-component-75fb898ca2f'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 
@@ -39,7 +39,7 @@ layout: default
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: [816656613418],
-        node: document.getElementById('product-component-8710a875ea5'),
+        node: document.getElementById('product-component-75fb898ca2f'),
         moneyFormat: 'R%20%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -57,7 +57,7 @@ layout: default
       "quantity": false
     },
     "text": {
-      "button": "PRE-ORDER NOW"
+      "button": "BUY NOW"
     },
     "styles": {
       "product": {
