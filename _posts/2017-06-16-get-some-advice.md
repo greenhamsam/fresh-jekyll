@@ -44,7 +44,7 @@ Here are some questions I’d ask them:
 
 Look guys, I haven't met every single financial adviser in the country so I can't personally give you the Official Rankings of the Best Advisers in South Africa. I can tell you, though, that these are some people that I do personally vouch for, as in, I have actually met them in person, I know that they are properly qualified and appropriately independent, and I believe they sincerely care about their clients.
 
-- **[Lifecheq](https://www.lightcard.co.za/?utm_source=lafg&utm_medium=site&utm_campaign=advicepage)** (DISCLAIMER: one of the founders is my bestie, but also I legit think they are awesome and very accessible). Lifecheq is based on Jozi and Cape Town.
+- **[Lifecheq](https://www.lifecheq.co.za/?utm_source=lafg&utm_medium=site&utm_campaign=advicepage)** (DISCLAIMER: one of the founders is my bestie, but also I legit think they are awesome and very accessible). Lifecheq is based on Jozi and Cape Town.
 - **[Julian Brookstone](http://www.julianbrookstone.com/)** (Julian is my own personal adviser; he's based in Cape Town).
 
 Do you know of a really wonderful financial adviser who you think should be on this list? Get in touch and tell me about them. I'll sit down with them, have a chat, and if I agree that they're awesome, I'll be happy to add them to this list.
