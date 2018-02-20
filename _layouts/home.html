@@ -95,7 +95,7 @@ layout: default
 <!-- Book ad -->
 <section>
   <header class="major">
-    <h2>Buy the book from 15 February</h2>
+    <h2>Buy this damned sexy book</h2>
   </header>
   <a href="/book.html"><img src="/images/lafg_ad.jpg" alt="Buy the book" style="max-width:800px;display:block;margin-left:auto;margin-right:auto"></a>
 </section>
@@ -106,7 +106,7 @@ layout: default
     <h2>Recent articles</h2>
   </header>
   <div class="posts">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:8 %}
     <article>
       <a href="{{ post.url }}" class="image">{% assign image = post.images[0] %}{% include image.html image=image %}</a>
       <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
