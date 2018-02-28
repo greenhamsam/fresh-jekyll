@@ -32,14 +32,19 @@ Africa's going to need a lot more people who know how to code to save us once th
 - [CodeX](http://www.projectcodex.co/)
 
 ## Creative schools
-There are some great school alternatives that focus on developing creative skills. Unfortunately, most of these courses are hella expensive (like, more than traditional varsity). Hit me up in the comments if you've got any tips for more cost-effective alternatives.
+There are some great school alternatives that focus on developing creative skills. Unfortunately, most of these courses are hella expensive (like, more than traditional varsity).
 
+One exception is [Umuzi](http://umuzi.org/learnership/), which is a 12 month paid learnership.
+
+Other (expensive) options include:
 - [AFDA](https://www.afda.co.za/)
 - [Friends of Design](http://friendsofdesign.net/)
 - [Red&Yellow](https://www.redandyellow.co.za/)
 - [Vega](https://www.vegaschool.com/Pages/default.aspx)
 - [Cape Town Creative Academy](http://ctca.co.za/)
 - [CityVarsity](https://www.cityvarsity.co.za/)
+
+Hit me up in the comments if you've got any tips for more cost-effective alternatives.
 
 ## Online courses
 With just a laptop and an internet connection, you can access some of the world's most high-quality lectures, in any subject. WE LIVE IN THE FUTURE, AND IT'S GREAT.
