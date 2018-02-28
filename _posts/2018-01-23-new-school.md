@@ -26,7 +26,7 @@ If that one's down, try [this one](http://7sundays.co.za/KeepClimbing/2017/01/07
 
 ## Technical and vocational skills programmes
 
-[Learn to Earn](https://www.learntoearn.org.za/index.php/training/our-courses/course-overview-fees) is a non-profit organisation that runs very affordable short courses in Khayelitsha and Hermanus for unemployed people, covering skills ranging from sewing to graphic design to woodwork. 83% of their graduates become economically active.
+[Learn to Earn](https://www.learntoearn.org.za/index.php/training/our-courses/course-overview-fees) is a non-profit organisation that runs very affordable short courses in Khayelitsha and Hermanus for unemployed people, covering skills ranging from sewing to graphic design to woodwork. 83% of their graduates become economically active after completing the courses.
 
 ## Software schools
 Africa's going to need a lot more people who know how to code to save us once the robot uprising happens. There are some really great, new-style practical coding schools popping up around the country who want to teach young people these skills, and some of them are even free.
