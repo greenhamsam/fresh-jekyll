@@ -24,6 +24,10 @@ The number of people enrolling at FET colleges is still tiny compared to univers
 [Here's a full list of all the TVET colleges in South Africa](http://www.tvetcolleges.co.za/default.aspx)
 If that one's down, try [this one](http://7sundays.co.za/KeepClimbing/2017/01/07/list-of-all-public-tvet-colleges/)
 
+## Technical and vocational skills programmes
+
+[Learn to Earn](https://www.learntoearn.org.za/index.php/training/our-courses/course-overview-fees) is a non-profit organisation that runs very affordable short courses in Khayelitsha and Hermanus for unemployed people, covering skills ranging from sewing to graphic design to woodwork. 83% of their graduates become economically active.
+
 ## Software schools
 Africa's going to need a lot more people who know how to code to save us once the robot uprising happens. There are some really great, new-style practical coding schools popping up around the country who want to teach young people these skills, and some of them are even free.
 
@@ -43,12 +47,14 @@ Other (expensive) options include:
 - [Vega](https://www.vegaschool.com/Pages/default.aspx)
 - [Cape Town Creative Academy](http://ctca.co.za/)
 - [CityVarsity](https://www.cityvarsity.co.za/)
+- [BHC School of Design](http://www.designschool.co.za/)
 
 Hit me up in the comments if you've got any tips for more cost-effective alternatives.
 
 ## Online courses
 With just a laptop and an internet connection, you can access some of the world's most high-quality lectures, in any subject. WE LIVE IN THE FUTURE, AND IT'S GREAT.
 
+- [Get Smarter](https://www.getsmarter.com/courses)
 - [Udemy](https://www.udemy.com/)
 - [edX](https://www.edx.org/)
 - [Coursera](https://www.coursera.org/)
