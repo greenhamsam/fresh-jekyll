@@ -24,9 +24,16 @@ The number of people enrolling at FET colleges is still tiny compared to univers
 [Here's a full list of all the TVET colleges in South Africa](http://www.tvetcolleges.co.za/default.aspx)
 If that one's down, try [this one](http://7sundays.co.za/KeepClimbing/2017/01/07/list-of-all-public-tvet-colleges/)
 
+Some particular TVET colleges that have been recommended by people we know include:
+- [Sparrow FET College](http://www.sparrowschools.co.za/fet_college.html)
+
 ## Technical and vocational skills programmes
 
 [Learn to Earn](https://www.learntoearn.org.za/index.php/training/our-courses/course-overview-fees) is a non-profit organisation that runs very affordable short courses in Khayelitsha and Hermanus for unemployed people, covering skills ranging from sewing to graphic design to woodwork. 83% of their graduates become economically active after completing the courses.
+
+[JumpStart](http://www.mrpfoundation.org/Our-Focus-Skills.aspx) is run by the Mr Price foundation and runs skills development programmes in KZN.
+
+[Harambee](http://harambee.co.za/) is an excellent resource that helps young, unemployed people find entry-level jobs, many of which offer on-the-job training.
 
 ## Software schools
 Africa's going to need a lot more people who know how to code to save us once the robot uprising happens. There are some really great, new-style practical coding schools popping up around the country who want to teach young people these skills, and some of them are even free.
