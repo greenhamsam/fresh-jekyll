@@ -86,6 +86,8 @@ Here's a pretty cool [online calculator](https://mytreasury.co.za/) that will he
 | FNB | Stable Fund of Funds | [Fund link](https://www.fnb.co.za/downloads/unittrust/Stable_fund.pdf) | 0.85% |
 | Nedgroup Investments | Core Guarded Fund | [Fund link](http://www.nedgroupinvestments.co.za/Funds/FundDetailsPage/nedgroup-investments-core-guarded-fund) | 0.51% |
 
+Local financial education site Just One Lap has a [recommended low-risk ETF portfolio](https://justonelap.com/etf-bundles/) that's really good. You have to register to see it, but it's free!
+
 ## Looking for a global index ETF for your freedom fund?
 
 [EasyEquities](https://www.easyequities.co.za/) is a very easy place to buy most of these funds.
@@ -107,6 +109,8 @@ Here's a pretty cool [online calculator](https://mytreasury.co.za/) that will he
 | EasyEquities | Vanguard Total World Stock | [Fund link](https://personal.vanguard.com/pub/Pdf/sp3141.pdf?2210111870) | 0.11% | US Dollars |
 
 The US Dollar accounts are ones that you can open locally, online, as a South African, but you need to use US Dollars to invest in them. This means making an international transfer from your online banking profile or buying US Dollars in an app like [Shyft](https://getshyft.co.za/). This does mean that you'll need to take currency conversion costs into account, when comparing your options.
+
+Local financial education site Just One Lap has a [recommended high-risk ETF portfolio](https://justonelap.com/etf-bundles/) that's really good. You have to register to see it, but it's free!
 
 ## Looking for a retirement annuity so that you're not going to be old and poor?
 
