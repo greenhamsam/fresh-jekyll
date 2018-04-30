@@ -28,7 +28,9 @@ Tech is always chasing a hype cycle, which means that buying a good quality devi
 
 If you need a new laptop, it can be smart to buy a better brand, but second-hand. [Second Bite](http://secondbite.co.za/) sells good-quality refurbished Macs at a decent price (as far as Macs go). Try [PC Laptops](https://www.pclaptops.co.za/) for high-quality PCs.
 
-[The Cell Store](https://www.thecellstore.co.za/product-category/certified-pre-owned/) sells second-hand phones, and they've been tested to make sure that they're in perfect working order. You can buy even cheaper tech on [Gumtree](http://gumtree.co.za/), but with no guarantee that stuff will work. If you do decide to risk Gumtree, use the escrow service [Shepherd](https://www.paywithshepherd.com/) to protect yourself from scams.
+[The Cell Store](https://www.thecellstore.co.za/product-category/certified-pre-owned/) sells second-hand phones, and they've been tested to make sure that they're in perfect working order. [Phonetradr](https://www.phonetradr.com/) has also been recommended by our excellent community (thanks guys!).
+
+You can buy even cheaper tech on [Gumtree](http://gumtree.co.za/), but with no guarantee that stuff will work. If you do decide to risk Gumtree, use the escrow service [Shepherd](https://www.paywithshepherd.com/) to protect yourself from scams.
 
 If you need a second-hand camera for that side-hustle of yours, try [Orms](http://orms.co.za/).
 
