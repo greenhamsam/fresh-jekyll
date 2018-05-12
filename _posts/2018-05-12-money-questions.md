@@ -51,7 +51,7 @@ It's important to go into this exercise with love, patience and empathy for each
 - Do you think it's important that couples have some private spending money? Why?
 - What is the maximum we could spend independently without consulting each other?
 - What are the indulgent expenses that give you the most happy?
-- What are the things in your household budget that you think you should cut back on?
+- What are the things in our household budget that you think we should cut back on?
 - Who should be in charge of investing for our future?
 
 ### Money values
@@ -64,7 +64,7 @@ It's important to go into this exercise with love, patience and empathy for each
 ### Kids and family
 - Do you want our (future or current) children to go to a private school? Do you want to be able to pay for tertiary education?
 - If we had children, how would we split the costs of childcare?
-- If our parents became sick or couldn't look after each other any more, how much would we support them?
+- If either of our parents became sick or couldn't look after themselves any more, how much would we support them?
 - Would you help your siblings or extended family financially if they needed it? To what limit?
 
 ### Closing
