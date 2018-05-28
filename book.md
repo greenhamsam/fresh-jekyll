@@ -5,7 +5,12 @@ layout: default
 
 ## Buy the book
 
-<div id='product-component-75fb898ca2f'></div>
+You can find the book in most good bookstores, or here:
+- [Loot.co.za](https://www.loot.co.za/product/sam-beckbessinger-manage-your-money-like-a-f-cking-grow/jxhs-5330-g800)
+- [Amazon](https://www.amazon.com/Manage-Your-Money-cking-Grown-ebook/dp/B079TPSBR6/ref=sr_1_1?ie=UTF8&qid=1527493528&sr=8-1&keywords=beckbessinger)
+- [Takealot](https://www.takealot.com/manage-your-money-like-a-f-cking-grown-up/PLID48608525)
+
+<!-- <div id='product-component-75fb898ca2f'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 
@@ -238,10 +243,9 @@ layout: default
 </script>
 
 <br/>
-<br/>
+<br/> -->
 
-## Looking for the eBook?
-It's available now on [Amazon](https://www.amazon.com/Manage-Your-Money-cking-Grown-ebook/dp/B079TPSBR6/ref=sr_1_1?ie=UTF8&qid=1518930832&sr=8-1&keywords=beckbessinger)
+The Kindle eBook version is available on [Amazon](https://www.amazon.com/Manage-Your-Money-cking-Grown-ebook/dp/B079TPSBR6/ref=sr_1_1?ie=UTF8&qid=1518930832&sr=8-1&keywords=beckbessinger)
 
 ## About the book
 _We never get an instruction manual about how money works. We never have to pass a test to get our Money Licence before we can take a new credit card for a drive. Most of what we learn about money comes from advertising or from other people who know as little as we do. No wonder we make such basic mistakes. No wonder we feel disempowered and scared. No wonder so many of us just decide to stick our heads in the damn sand and never deal with it._
@@ -260,13 +264,4 @@ With exercises, flowcharts and informative illustrations (also: kittens), this b
 
 You’re going to earn millions of rands over your lifetime. Are you going to waste it on stupid crap that doesn’t make you happy, or let it buy your freedom and your most audacious dreams?
 
-## Find the book in stores
-- Exclusive Books
-- Bargain Books
-- [Loot](https://www.loot.co.za/product/jxhs-5330-g800)
-- [Takealot](https://www.takealot.com/manage-your-money-like-a-f-cking-grown-up/PLID48608525)
-- CNA
-
 <!-- Download the first chapter for free. -->
-
-We're in the process of recording an audiobook.
