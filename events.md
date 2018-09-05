@@ -7,11 +7,22 @@ layout: default
 
 Want to make sure you'll be the first know about all of our events? The easiest thing to do is to like our [Facebook Page](https://www.facebook.com/likeagrownup/).
 
-### 7 March 2018: Cape Town Book launch
-Join me at the Exclusive Books at the [V&A Waterfront on 7 March 2018](https://www.facebook.com/events/1449515205157967/) for the official launch of _How to Manage Your Money Like a Fucking Grownup: the book_. This is taking the form of a free workshop on money management.
+### 5-6 September 2018: Open Book Fest Cape Town
+Join me at my all time favourite book festival where I'll be participating in two panels:
+- [Talk More, Fear Less](http://openbookfestival.co.za/programme/talk-more-fear-less/)
+- [The Adulting Toolbox](http://openbookfestival.co.za/programme/the-adulting-toolbox/)
 
-### 19 March 2018: Facebook Live Chat
-Want to ask some questions about how to manage your money better? Join us for a Facebook live-stream where I'll be taking your questions. Time TBC; like the Facebook page for updates.
+### 8 September 2018: SA Book Fair in Jozi
+Jozi! I'm heading up to you on the 8th to participate on a panel as part of the AMAZING looking SA Book Fair (I've never been, but it looks STELLAR). My panel is called ("Who's the Boss")[https://www.southafricanbookfair.co.za/events/whos-the-boss/] and it's going to be a fun one!
+
+### 6 November 2018: PechaKucha Cape Town
+What happens when you talk about 20 images for 20 seconds each? Hopefully, a really fun evening! I'll be talking at [PechaKucha](https://pechakucha-capetown.com/) on the 6th of November.
+
+### 10-11 November 2018: Women's Health Live Festival Jozi
+A weekend frenzy of health and wellness! I think this one is going to be fun. [Tickets here](https://www.quicket.co.za/events/54963-womens-health-live-festival/).
+
+### 17 November 2018: TEDx Cape Town
+TED is all about [ideas worth spreading](https://tedxcapetown.org/). Come catch me talking about how we can all be happier by rejecting the normal script of adulthood.
 
 -----------------------
 
