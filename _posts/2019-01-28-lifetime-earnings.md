@@ -6,11 +6,11 @@ tags: [freedom, earning, making money]
 published: true
 
 images:
-
-  - url: /images/lifetime-earnings.png
-    alt: Lifetime earnings table
-    title: Lifetime earnings table
+    - url: /images/lifetime-earnings.png
+      alt: Lifetime earnings table
+      title: Lifetime earnings table
 ---
+
 Visualise all the money you're still going to earn over the rest of your life. Close your eyes and picture it for a moment, a big pile of cash, like something Scrooge McDuck might go swimming in.
 
 Can you see it?
