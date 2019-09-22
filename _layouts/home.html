@@ -5,11 +5,11 @@ layout: default
 <section id="banner">
   <div class="content">
     <header>
-      <h1>Are you ready to buy your freedom?</h1>
+      <h1>Don't know how to adult? Us neither.</h1>
     </header>
-    <p>Stop being a slave to your paycheque. We’re a community devoted to living the lives we really want to live, by learning how to make money our bitch.</p>
+    <p>We’re a community devoted to living the lives we really want to live, by figuring out this whole adulting thing, together.</p>
     <h3>Join the club</h3>
-    <p>Pro-tips, videos and resources in your inbox.</p>
+    <p>Pro-tips, updates and jokes in your inbox, every fortnight-ish.</p>
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">
       <form action="https://arcay.us1.list-manage.com/subscribe/post?u=27378e44b1405e9f30e0f4d8d&amp;id=49c7db0e45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -29,16 +29,30 @@ layout: default
     <!--End mc_embed_signup-->
   </div>
   <span class="image object">
-    <a href="/book.html"><img src="images/Front cover.jpg" alt="Manage Your Money Like a Fucking Grownup" style="max-width:100%"/></a>
+    <a href="/podcast.html"><img src="images/podcast_banner.gif" alt="Like a Fucking Grownup Podcast" style="max-width:100%"/></a>
   </span>
 </section>
 
-<!-- Start here section -->
-<section id="start-here">
-  <div id="start-div">
-    <h1>First time? We'll be gentle.</h1>
-    <a href="/start.html" class="button special">Get started</a>
+<!-- Blog posts -->
+<section>
+  <header class="major">
+    <h2>Recent articles</h2>
+  </header>
+  <div class="posts">
+    {% for post in site.posts limit:8 %}
+    <article>
+      <a href="{{ post.url }}" class="image">{% assign image = post.images[0] %}{% include image.html image=image %}</a>
+      <a href="{{ post.url }}">
+        <h3>{{ post.title }}</h3>
+      </a>
+      {{ post.excerpt }}
+      <ul class="actions">
+        <li><a href="{{ post.url }}" class="button">More</a></li>
+      </ul>
+    </article>
+    {% endfor %}
   </div>
+  <a href="/articles.html" class="button special">More articles please!</a>
 </section>
 
 <!-- Category explorer -->
@@ -92,266 +106,22 @@ layout: default
   </div>
 </section>
 
+<!-- Start here section -->
+<section id="start-here">
+  <div id="start-div">
+    <h1>First time? We'll be gentle.</h1>
+    <a href="/articles.html" class="button special">Get started</a>
+  </div>
+</section>
+
 <!-- Book ad -->
 <section>
   <header class="major">
-    <h2>Buy this damned sexy book</h2>
+    <h2>Manage Your Money Like a Fucking Grownup</h2>
   </header>
-  <p>You can find the book in most good bookstores, or here:</p>
+  <p>You can find this damn sexy book in most good bookstores, or here:</p>
   <ul>
     <li><a href="https://www.amazon.com/Manage-Your-Money-cking-Grown/dp/1472143442/ref=sr_1_2?keywords=beckbessinger&qid=1556525987&s=gateway&sr=8-2" target="_blank">The U.K. edition</a></li>
     <li><a href="https://www.amazon.com/Manage-Your-Money-cking-Grown-ebook/dp/B079TPSBR6/ref=sr_1_1?ie=UTF8&qid=1527493528&sr=8-1&keywords=beckbessinger" target="_blank">The South African edition</a></li>
   </ul>
-</section>
-
-  <!-- <div id='product-component-75fb898ca2f'></div>
-  <script type="text/javascript">
-  /*<![CDATA[*/
-
-  (function () {
-    var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-    if (window.ShopifyBuy) {
-      if (window.ShopifyBuy.UI) {
-        ShopifyBuyInit();
-      } else {
-        loadScript();
-      }
-    } else {
-      loadScript();
-    }
-
-    function loadScript() {
-      var script = document.createElement('script');
-      script.async = true;
-      script.src = scriptURL;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-      script.onload = ShopifyBuyInit;
-    }
-
-    function ShopifyBuyInit() {
-      var client = ShopifyBuy.buildClient({
-        domain: 'like-a-fucking-grownup.myshopify.com',
-        apiKey: 'a3ede2f2ee5335a8f82b716cd02cf4e4',
-        appId: '6',
-      });
-
-      ShopifyBuy.UI.onReady(client).then(function (ui) {
-        ui.createComponent('product', {
-          id: [816656613418],
-          node: document.getElementById('product-component-75fb898ca2f'),
-          moneyFormat: 'R%20%7B%7Bamount%7D%7D',
-          options: {
-    "product": {
-      "buttonDestination": "checkout",
-      "layout": "horizontal",
-      "variantId": "all",
-      "width": "100%",
-      "contents": {
-        "img": false,
-        "imgWithCarousel": true,
-        "variantTitle": false,
-        "description": true,
-        "buttonWithQuantity": true,
-        "button": false,
-        "quantity": false
-      },
-      "text": {
-        "button": "BUY NOW"
-      },
-      "styles": {
-        "product": {
-          "text-align": "left",
-          "@media (min-width: 601px)": {
-            "max-width": "100%",
-            "margin-left": "0",
-            "margin-bottom": "50px"
-          }
-        },
-        "button": {
-          "font-family": "Open Sans, sans-serif",
-          ":hover": {
-            "background-color": "#6ca44e"
-          },
-          ":focus": {
-            "background-color": "#6ca44e"
-          },
-          "font-weight": "bold"
-        },
-        "variantTitle": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        },
-        "title": {
-          "font-family": "Open Sans, sans-serif",
-          "font-size": "26px"
-        },
-        "description": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        },
-        "price": {
-          "font-family": "Open Sans, sans-serif",
-          "font-size": "18px",
-          "font-weight": "normal"
-        },
-        "compareAt": {
-          "font-size": "15px",
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        }
-      },
-      "googleFonts": [
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans"
-      ]
-    },
-    "cart": {
-      "contents": {
-        "button": true
-      },
-      "styles": {
-        "button": {
-          "font-family": "Open Sans, sans-serif",
-          ":hover": {
-            "background-color": "#6ca44e"
-          },
-          ":focus": {
-            "background-color": "#6ca44e"
-          },
-          "font-weight": "bold"
-        },
-        "footer": {
-          "background-color": "#ffffff"
-        }
-      },
-      "googleFonts": [
-        "Open Sans"
-      ]
-    },
-    "modalProduct": {
-      "contents": {
-        "img": false,
-        "imgWithCarousel": true,
-        "variantTitle": false,
-        "buttonWithQuantity": true,
-        "button": false,
-        "quantity": false
-      },
-      "styles": {
-        "product": {
-          "@media (min-width: 601px)": {
-            "max-width": "100%",
-            "margin-left": "0px",
-            "margin-bottom": "0px"
-          }
-        },
-        "button": {
-          "font-family": "Open Sans, sans-serif",
-          ":hover": {
-            "background-color": "#6ca44e"
-          },
-          ":focus": {
-            "background-color": "#6ca44e"
-          },
-          "font-weight": "bold"
-        },
-        "variantTitle": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        },
-        "title": {
-          "font-family": "Open Sans, sans-serif"
-        },
-        "description": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        },
-        "price": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        },
-        "compareAt": {
-          "font-family": "Open Sans, sans-serif",
-          "font-weight": "normal"
-        }
-      },
-      "googleFonts": [
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans",
-        "Open Sans"
-      ]
-    },
-    "toggle": {
-      "styles": {
-        "toggle": {
-          "font-family": "Open Sans, sans-serif",
-          ":hover": {
-            "background-color": "#6ca44e"
-          },
-          ":focus": {
-            "background-color": "#6ca44e"
-          },
-          "font-weight": "bold"
-        }
-      },
-      "googleFonts": [
-        "Open Sans"
-      ]
-    },
-    "option": {
-      "styles": {
-        "label": {
-          "font-family": "Open Sans, sans-serif"
-        },
-        "select": {
-          "font-family": "Open Sans, sans-serif"
-        }
-      },
-      "googleFonts": [
-        "Open Sans",
-        "Open Sans"
-      ]
-    },
-    "productSet": {
-      "styles": {
-        "products": {
-          "@media (min-width: 601px)": {
-            "margin-left": "-20px"
-          }
-        }
-      }
-    }
-  }
-        });
-      });
-    }
-  })();
-  /*]]>*/
-  </script> -->
-<!-- </section> -->
-
-<!-- Blog posts -->
-<section>
-  <header class="major">
-    <h2>Recent articles</h2>
-  </header>
-  <div class="posts">
-    {% for post in site.posts limit:8 %}
-    <article>
-      <a href="{{ post.url }}" class="image">{% assign image = post.images[0] %}{% include image.html image=image %}</a>
-      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-      {{ post.excerpt }}
-      <ul class="actions">
-        <li><a href="{{ post.url }}" class="button">More</a></li>
-      </ul>
-    </article>
-    {% endfor %}
-  </div>
 </section>

@@ -2,11 +2,10 @@
 layout: default
 title: Newsletter
 ---
+
 # Newsletter
 
-Get pro-tips, videos and resources in your inbox once a week.
-
-**UPDATE: We'll start sending newsletters out soon, promise. Thanks for your patience while we get everything off the ground. Y'all are the best.**
+Get pro-tips, updates and jokes in your inbox every fortnight-ish.
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
@@ -25,3 +24,5 @@ Get pro-tips, videos and resources in your inbox once a week.
   </form>
 </div>
 <!--End mc_embed_signup-->
+
+[Take a look at our archives over here.](https://sambeckbessinger.substack.com)

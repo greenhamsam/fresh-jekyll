@@ -5,7 +5,7 @@ layout: default
 
 ## Launches, Meetups and Events
 
-Want to make sure you'll be the first know about all of our events? The easiest thing to do is to like our [Facebook Page](https://www.facebook.com/likeagrownup/).
+Want to make sure you'll be the first know about all of our events? The easiest thing to do is to [subscribe to our newsletter](/newsletter.html).
 
 ---
 
