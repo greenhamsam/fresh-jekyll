@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="likeafuckinggrownup.com/feed.xml" rel="self" type="application/atom+xml" /><link href="likeafuckinggrownup.com/" rel="alternate" type="text/html" /><updated>2019-10-14T15:45:16+02:00</updated><id>likeafuckinggrownup.com/</id><title type="html">Like a Fucking Grownup</title><subtitle>Live the life you really want to live, by learning Adulting superpowers.
-</subtitle><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><entry><title type="html">Five things you didn’t learn about STIs in Sex-Ed</title><link href="likeafuckinggrownup.com/etc/stis.html" rel="alternate" type="text/html" title="Five things you didn't learn about STIs in Sex-Ed" /><published>2019-09-26T00:00:00+02:00</published><updated>2019-09-26T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/stis</id><content type="html" xml:base="likeafuckinggrownup.com/etc/stis.html">&lt;p&gt;But, despite the national preoccupation with sexually transmitted infections (STIs), most of us – adult humans who might have sex sometimes – are still walking around with some pretty outrageous misconceptions about them. For the first episode of our podcast, I talked to some sexual health experts and discovered there was a bunch of stuff about sexual health I WAS GROSSLY MISINFORMED ABOUT.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Beckbessinger</title>
+    <description>Live the life you really want to live, by learning Adulting superpowers.
+</description>
+    <link>likeafuckinggrownup.com</link>
+    <atom:link href="likeafuckinggrownup.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Five things you didn't learn about STIs in Sex-Ed</title>
+        <description>&lt;p&gt;But, despite the national preoccupation with sexually transmitted infections (STIs), most of us – adult humans who might have sex sometimes – are still walking around with some pretty outrageous misconceptions about them. For the first episode of our podcast, I talked to some sexual health experts and discovered there was a bunch of stuff about sexual health I WAS GROSSLY MISINFORMED ABOUT.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/tortoises.jpeg&quot; alt=&quot;Tortoises smooshing squishy bits&quot; title=&quot;Tortoises smooshing squishy bits&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Read the rest of this article and take a listen to the first episode of &lt;em&gt;Like a Fucking Grownup: the PODCAST!&lt;/em&gt; over on &lt;em&gt;Daily Maverick&lt;/em&gt;: &lt;a href=&quot;https://www.dailymaverick.co.za/article/2019-09-26-five-things-you-didnt-learn-about-stis-in-sex-ed/&quot;&gt;Five Things You Didn’t Learn About STIs in Sex-Ed&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="sex" /><category term="health" /><category term="podcast" /><summary type="html">But, despite the national preoccupation with sexually transmitted infections (STIs), most of us – adult humans who might have sex sometimes – are still walking around with some pretty outrageous misconceptions about them. For the first episode of our podcast, I talked to some sexual health experts and discovered there was a bunch of stuff about sexual health I WAS GROSSLY MISINFORMED ABOUT.</summary></entry><entry><title type="html">Raising money-savvy kids 👧🏽</title><link href="likeafuckinggrownup.com/etc/raising-money-savvy-kids.html" rel="alternate" type="text/html" title="Raising money-savvy kids 👧🏽" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/raising-money-savvy-kids</id><content type="html" xml:base="likeafuckinggrownup.com/etc/raising-money-savvy-kids.html">&lt;p&gt;Last week someone asked me for advice about how to talk to her kid about money. “It’s not like I can just show her what’s in my bank account”, she said, laughing nervously.&lt;/p&gt;
+&lt;p&gt;Read the rest of this article and take a listen to the first episode of &lt;em&gt;Like a Fucking Grownup: the PODCAST!&lt;/em&gt; over on &lt;em&gt;Daily Maverick&lt;/em&gt;: &lt;a href=&quot;https://www.dailymaverick.co.za/article/2019-09-26-five-things-you-didnt-learn-about-stis-in-sex-ed/&quot;&gt;Five Things You Didn’t Learn About STIs in Sex-Ed&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/stis.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/stis.html</guid>
+      </item>
+    
+      <item>
+        <title>Raising money-savvy kids 👧🏽</title>
+        <description>&lt;p&gt;Last week someone asked me for advice about how to talk to her kid about money. “It’s not like I can just show her what’s in my bank account”, she said, laughing nervously.&lt;/p&gt;
 
 &lt;p&gt;I told her, actually, that’s exactly what I think she should do.&lt;/p&gt;
 
@@ -81,7 +100,16 @@
 
 &lt;p&gt;Love,&lt;/p&gt;
 
-&lt;p&gt;Sam&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="investing" /><category term="money" /><category term="kids" /><category term="psychology" /><summary type="html">Last week someone asked me for advice about how to talk to her kid about money. “It’s not like I can just show her what’s in my bank account”, she said, laughing nervously. I told her, actually, that’s exactly what I think she should do.</summary></entry><entry><title type="html">What roller coasters can teach you about stress 🎢</title><link href="likeafuckinggrownup.com/etc/what-roller-coasters-can-teach-you-about-stress.html" rel="alternate" type="text/html" title="What roller coasters can teach you about stress 🎢" /><published>2019-08-14T00:00:00+02:00</published><updated>2019-08-14T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/what-roller-coasters-can-teach-you-about-stress</id><content type="html" xml:base="likeafuckinggrownup.com/etc/what-roller-coasters-can-teach-you-about-stress.html">&lt;p&gt;Three days after my dad died, two of my best friends took me to Gold Reef City to ride rollercoasters.&lt;/p&gt;
+&lt;p&gt;Sam&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Sep 2019 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/raising-money-savvy-kids.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/raising-money-savvy-kids.html</guid>
+      </item>
+    
+      <item>
+        <title>What roller coasters can teach you about stress 🎢</title>
+        <description>&lt;p&gt;Three days after my dad died, two of my best friends took me to Gold Reef City to ride rollercoasters.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -145,7 +173,16 @@
 
 &lt;p&gt;All my love&lt;/p&gt;
 
-&lt;p&gt;Sam&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="psychology" /><category term="mental health" /><category term="stress" /><summary type="html">Three days after my dad died, two of my best friends took me to Gold Reef City to ride rollercoasters.</summary></entry><entry><title type="html">Being kinder to old you 🧓🏻👵🏾👴🏿👵🏼</title><link href="likeafuckinggrownup.com/freedom/being-kinder-to-older-you.html" rel="alternate" type="text/html" title="Being kinder to old you 🧓🏻👵🏾👴🏿👵🏼" /><published>2019-04-03T00:00:00+02:00</published><updated>2019-04-03T00:00:00+02:00</updated><id>likeafuckinggrownup.com/freedom/being-kinder-to-older-you</id><content type="html" xml:base="likeafuckinggrownup.com/freedom/being-kinder-to-older-you.html">&lt;p&gt;Wanna see something hilarious? This is what I’m going to look like when I’m old, according to one EXTREMELY DODGY APP called FaceApp (more on this later).&lt;/p&gt;
+&lt;p&gt;Sam&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/what-roller-coasters-can-teach-you-about-stress.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/what-roller-coasters-can-teach-you-about-stress.html</guid>
+      </item>
+    
+      <item>
+        <title>Being kinder to old you 🧓🏻👵🏾👴🏿👵🏼</title>
+        <description>&lt;p&gt;Wanna see something hilarious? This is what I’m going to look like when I’m old, according to one EXTREMELY DODGY APP called FaceApp (more on this later).&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -211,7 +248,16 @@
 &lt;p&gt;&lt;em&gt;“FaceApp’s built up a database of about 150million people’s faces — which it’s likely using to train facial-recognition algorithms.&lt;/em&gt;
 &lt;em&gt;“It’s a symptom of a much bigger problem, given the myriad ways that facial recognition is being rolled out across the world. A lot of people talk about this as the users’ fault but we need to put the blame squarely with the companies and governments and crappy laws that enable these practices.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Murray is crowdfunding a hilarious children’s book to help you have better conversations about data privacy with toddlers (I’ve read it; it’s mega cute). &lt;a href=&quot;https://www.indiegogo.com/projects/boris-the-babybot-a-storybook-about-surveillance/x/22185084?utm_source=sailthru&amp;amp;utm_medium=email&amp;amp;utm_campaign=bck-07292019update&amp;amp;utm_term=#/&quot;&gt;Pre-order yours here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="retirement" /><category term="money" /><category term="psychology" /><summary type="html">Wanna see something hilarious? This is what I’m going to look like when I’m old, according to one EXTREMELY DODGY APP called FaceApp (more on this later).</summary></entry><entry><title type="html">What might you earn over the rest of your lifetime?</title><link href="likeafuckinggrownup.com/freedom/lifetime-earnings.html" rel="alternate" type="text/html" title="What might you earn over the rest of your lifetime?" /><published>2019-01-28T00:00:00+02:00</published><updated>2019-01-28T00:00:00+02:00</updated><id>likeafuckinggrownup.com/freedom/lifetime-earnings</id><content type="html" xml:base="likeafuckinggrownup.com/freedom/lifetime-earnings.html">&lt;p&gt;Visualise all the money you’re still going to earn over the rest of your life. Close your eyes and picture it for a moment, a big pile of cash, like something Scrooge McDuck might go swimming in.&lt;/p&gt;
+&lt;p&gt;Murray is crowdfunding a hilarious children’s book to help you have better conversations about data privacy with toddlers (I’ve read it; it’s mega cute). &lt;a href=&quot;https://www.indiegogo.com/projects/boris-the-babybot-a-storybook-about-surveillance/x/22185084?utm_source=sailthru&amp;amp;utm_medium=email&amp;amp;utm_campaign=bck-07292019update&amp;amp;utm_term=#/&quot;&gt;Pre-order yours here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//freedom/being-kinder-to-older-you.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//freedom/being-kinder-to-older-you.html</guid>
+      </item>
+    
+      <item>
+        <title>What might you earn over the rest of your lifetime?</title>
+        <description>&lt;p&gt;Visualise all the money you’re still going to earn over the rest of your life. Close your eyes and picture it for a moment, a big pile of cash, like something Scrooge McDuck might go swimming in.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -230,7 +276,16 @@
 &lt;h4 id=&quot;howd-i-work-out-that-number&quot;&gt;How’d I work out that number?&lt;/h4&gt;
 
 &lt;p&gt;Basically, I use this formula:
-Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1) / 0.06)&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="freedom" /><category term="earning" /><category term="making money" /><summary type="html">Visualise all the money you’re still going to earn over the rest of your life. Close your eyes and picture it for a moment, a big pile of cash, like something Scrooge McDuck might go swimming in.</summary></entry><entry><title type="html">How well do you know your partner’s money style?</title><link href="likeafuckinggrownup.com/etc/money-questions.html" rel="alternate" type="text/html" title="How well do you know your partner's money style?" /><published>2018-05-12T00:00:00+02:00</published><updated>2018-05-12T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/money-questions</id><content type="html" xml:base="likeafuckinggrownup.com/etc/money-questions.html">&lt;p&gt;It might sound unromantic, but learning how to talk about money in your relationship is one of the most important things you can do to keep your love alive, because money problems are one of the most common reasons for divorce.&lt;/p&gt;
+Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1) / 0.06)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Jan 2019 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//freedom/lifetime-earnings.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//freedom/lifetime-earnings.html</guid>
+      </item>
+    
+      <item>
+        <title>How well do you know your partner's money style?</title>
+        <description>&lt;p&gt;It might sound unromantic, but learning how to talk about money in your relationship is one of the most important things you can do to keep your love alive, because money problems are one of the most common reasons for divorce.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -301,7 +356,17 @@ Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1)
   &lt;li&gt;What’s one thing that really excites you when you think about your future together with your partner?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/love.jpg&quot; alt=&quot;Love&quot; title=&quot;Love&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="tools" /><category term="etc" /><category term="downloads" /><summary type="html">It might sound unromantic, but learning how to talk about money in your relationship is one of the most important things you can do to keep your love alive, because money problems are one of the most common reasons for divorce.</summary></entry><entry><title type="html">The all-in-one flowchart for managing your money</title><link href="likeafuckinggrownup.com/etc/flowchart.html" rel="alternate" type="text/html" title="The all-in-one flowchart for managing your money" /><published>2018-03-27T00:00:00+02:00</published><updated>2018-03-27T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/flowchart</id><content type="html" xml:base="likeafuckinggrownup.com/etc/flowchart.html">&lt;p&gt;Feeling overwhelmed about all the different things you need to do in order to get your money life under control? Here’s a simple flowchart that takes you through, step-by-step, all the major milestones you’ll reach on the rocky road to financial freedom.
+&lt;p&gt;&lt;img src=&quot;/images/love.jpg&quot; alt=&quot;Love&quot; title=&quot;Love&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 May 2018 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/money-questions.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/money-questions.html</guid>
+      </item>
+    
+      <item>
+        <title>The all-in-one flowchart for managing your money</title>
+        <description>&lt;p&gt;Feeling overwhelmed about all the different things you need to do in order to get your money life under control? Here’s a simple flowchart that takes you through, step-by-step, all the major milestones you’ll reach on the rocky road to financial freedom.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/ManageYourMoneyLikeAFuckingGrownup-theflowchart.png&quot; alt=&quot;Manage Your Money Like a F*cking Grownup - the flowchart&quot; title=&quot;Manage Your Money Like a F*cking Grownup - the flowchart&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
@@ -310,14 +375,32 @@ Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1)
 
 &lt;p&gt;This flowchart is yours to download, print and share as you wish.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/downloads/ManageYourMoneyLikeAFuckingGrownup-theflowchart.png&quot; download=&quot;&quot;&gt;Download a high-res version here&lt;/a&gt;&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="tools" /><category term="get your shit together" /><category term="downloads" /><summary type="html">Feeling overwhelmed about all the different things you need to do in order to get your money life under control? Here’s a simple flowchart that takes you through, step-by-step, all the major milestones you’ll reach on the rocky road to financial freedom.</summary></entry><entry><title type="html">GAH! An error in the book</title><link href="likeafuckinggrownup.com/etc/graph-correction.html" rel="alternate" type="text/html" title="GAH! An error in the book" /><published>2018-02-14T00:00:00+02:00</published><updated>2018-02-14T00:00:00+02:00</updated><id>likeafuckinggrownup.com/etc/graph-correction</id><content type="html" xml:base="likeafuckinggrownup.com/etc/graph-correction.html">&lt;p&gt;Shock! Horror! There’s a tiny mistake in the OTHERWISE 100% PERFECT book!
+&lt;p&gt;&lt;a href=&quot;/downloads/ManageYourMoneyLikeAFuckingGrownup-theflowchart.png&quot; download=&quot;&quot;&gt;Download a high-res version here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/flowchart.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/flowchart.html</guid>
+      </item>
+    
+      <item>
+        <title>GAH! An error in the book</title>
+        <description>&lt;p&gt;Shock! Horror! There’s a tiny mistake in the OTHERWISE 100% PERFECT book!
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;On page 77, you’ll find this graph comparing the impact on your net worth of taking R1000 out of savings vs. taking a loan for it. I’m a moron and I switched the key around. The RED bars show you what happens if you pull the money out of savings, and the BLACK bars show you what happens if you take a loan for the money. The X-axis compares how long you take to pay back the money.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/graph-pg-77.png&quot; alt=&quot;Page 77 graph&quot; title=&quot;Page 77 graph&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Woops. Sorry.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="etc" /><category term="book" /><summary type="html">Shock! Horror! There’s a tiny mistake in the OTHERWISE 100% PERFECT book!</summary></entry><entry><title type="html">Schemes and Scams</title><link href="likeafuckinggrownup.com/freedom/schemes-and-scams.html" rel="alternate" type="text/html" title="Schemes and Scams" /><published>2018-02-06T00:00:00+02:00</published><updated>2018-02-06T00:00:00+02:00</updated><id>likeafuckinggrownup.com/freedom/schemes-and-scams</id><content type="html" xml:base="likeafuckinggrownup.com/freedom/schemes-and-scams.html">&lt;p&gt;There’s no way to get rich quick, but there are a hundred ways for people to lose everything because they try to. Here’s our list of money making schemes and scams that we think you should avoid, because we don’t want you to lose your hard-earned moolah.
+&lt;p&gt;Woops. Sorry.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Feb 2018 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//etc/graph-correction.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//etc/graph-correction.html</guid>
+      </item>
+    
+      <item>
+        <title>Schemes and Scams</title>
+        <description>&lt;p&gt;There’s no way to get rich quick, but there are a hundred ways for people to lose everything because they try to. Here’s our list of money making schemes and scams that we think you should avoid, because we don’t want you to lose your hard-earned moolah.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;We will not link to any of these sites.&lt;/p&gt;
@@ -361,7 +444,16 @@ Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1)
 
 &lt;h2 id=&quot;got-any-tips&quot;&gt;Got any tips?&lt;/h2&gt;
 
-&lt;p&gt;Know of any other dodgy or suspect schemes or scams? Let us know in the comments and we’ll investigate.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="earning" /><category term="scam" /><summary type="html">There’s no way to get rich quick, but there are a hundred ways for people to lose everything because they try to. Here’s our list of money making schemes and scams that we think you should avoid, because we don’t want you to lose your hard-earned moolah.</summary></entry><entry><title type="html">Radtastic investment funds and savings accounts</title><link href="likeafuckinggrownup.com/investing/good-funds.html" rel="alternate" type="text/html" title="Radtastic investment funds and savings accounts" /><published>2018-02-06T00:00:00+02:00</published><updated>2018-02-06T00:00:00+02:00</updated><id>likeafuckinggrownup.com/investing/good-funds</id><content type="html" xml:base="likeafuckinggrownup.com/investing/good-funds.html">&lt;p&gt;Guys, there are a lot of different accounts and funds out there, and I’m not listing every single one of them here. These are just some of the funds that I’ve personally scouted out as potential candidates for my own portfolio.
+&lt;p&gt;Know of any other dodgy or suspect schemes or scams? Let us know in the comments and we’ll investigate.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//freedom/schemes-and-scams.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//freedom/schemes-and-scams.html</guid>
+      </item>
+    
+      <item>
+        <title>Radtastic investment funds and savings accounts</title>
+        <description>&lt;p&gt;Guys, there are a lot of different accounts and funds out there, and I’m not listing every single one of them here. These are just some of the funds that I’ve personally scouted out as potential candidates for my own portfolio.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Heyyyyyyy… remember how I’m not a professional, qualified financial adviser? Just reminding you of that fact. Do your own homework before you put your money in something and &lt;a href=&quot;/etc/get-some-advice.html&quot;&gt;talk to an actual financial adviser&lt;/a&gt; if you need to. Kthnxbai.&lt;/em&gt;&lt;/p&gt;
@@ -810,4 +902,12 @@ Lifetime earnings = (current salary x 12) x ((((1.06) ^ (65 - current age)) - 1)
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Just a note on 10X: their fees get a bit lower once you’ve got like R1-million invested with them.&lt;/p&gt;</content><author><name>Sam Beckbessinger</name><email>howzit@fuckinggrownups.com</email></author><category term="tools" /><category term="investing" /><category term="freedom" /><category term="accounts" /><summary type="html">Guys, there are a lot of different accounts and funds out there, and I’m not listing every single one of them here. These are just some of the funds that I’ve personally scouted out as potential candidates for my own portfolio.</summary></entry></feed>
+&lt;p&gt;Just a note on 10X: their fees get a bit lower once you’ve got like R1-million invested with them.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 +0200</pubDate>
+        <link>likeafuckinggrownup.com//investing/good-funds.html</link>
+        <guid isPermaLink="true">likeafuckinggrownup.com//investing/good-funds.html</guid>
+      </item>
+    
+  </channel>
+</rss>
