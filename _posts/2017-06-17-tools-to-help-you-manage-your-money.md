@@ -72,6 +72,15 @@ Open Banking is the shit, guys! Luckily for you, this means that you have lots t
 | Yolt           | [yolt.com](https://www.yolt.com/)                     | iOS, Android      | Free | Probably the best-looking guy out there.            |
 | Buxfer         | [buxfer.com](https://www.buxfer.com)                  | Web               | Free | If you're happy to only access your account on web. |
 
+## Investment apps
+- [Hargreaves Lansdown](https://www.hl.co.uk/): the #1 UK investing platform; a great place to start for most people.
+- [Plum](https://withplum.com/): a simple chatbot style investment app that has some cute money management features in it too. Good for beginners.
+- [Wombat](https://wombatinvest.com/): another simple app for effortless investing.
+- [Freetrade](https://freetrade.io/): simple interface and quick setup.
+- [Nutmeg](https://www.nutmeg.com/): offers a bit more guidance than the rest.
+- [Wealthify](https://www.wealthify.com/): risk-based investments backed by Aviva.
+- [Wealthsimple](https://www.wealthsimple.com/en-gb/): simple guided investments with smarts.
+
 ## Other useful money apps
 
 - [Bean](https://usebean.com): an app that helps you manage your bills and subscriptions.
