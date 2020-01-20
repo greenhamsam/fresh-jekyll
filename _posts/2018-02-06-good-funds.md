@@ -146,4 +146,6 @@ Once again, our good friend [Stealthy Wealth](http://www.stealthywealth.co.za/20
 | Coronation | Balanced Fund Plus | [Fund link](https://www.coronation.com/personal/funds/balanced-plus/) | 1.60% |
 | Allan Gray | Balanced Fund | [Fund link](https://www.allangray.co.za/fund-pages/balanced-fund/) | 1.70% |
 
+A new player in this space is [OUTvest](https://www.outvest.co.za/fees/), who've introduced a very interesting fixed-fee option which might be a great solution for people who have between 300k - 2.25m in their RA.
+
 Just a note on 10X: their fees get a bit lower once you've got like R1-million invested with them.
